@@ -12,13 +12,17 @@ THEMES = {
         "生成AI OR 人工知能 OR AI規制",
         "OpenAI OR Anthropic OR Google AI OR AIモデル",
     ],
+    "semiconductor": [
+        "半導体 OR TSMC OR ラピダス OR キオクシア",
+        "半導体 工場 OR 増産 OR 補助金 OR 投資",
+    ],
     "carbon_neutral": [
         "カーボンニュートラル OR 脱炭素 OR GX",
         "再生可能エネルギー OR 太陽光 OR 洋上風力 OR 水素",
     ],
     "industry": [
-        "製造業 OR 産業政策 OR 経済産業省",
-        "エネルギー OR インフラ OR 設備投資",
+        "設備投資 OR 新工場 OR 増産 発表",
+        "資本業務提携 OR 買収 OR 中期経営計画 OR 新規事業",
     ],
 }
 

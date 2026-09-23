@@ -1,570 +1,558 @@
 {
- "generated_at_utc": "2026-09-22T23:05:24.088750+00:00",
+ "generated_at_utc": "2026-09-23T23:01:15.969629+00:00",
  "themes": {
   "ai": [
    {
-    "title": "オープンAI、外部検証拡大 人工知能暴走懸念で安全策（共同通信） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIeERqQXcwUGxhZm8zUkZ1aXNfZm9WRjhYYkdHMDVsanNNVEdzbElNZFRKMDlYcjVMTzdSZU9ud3A0a3pPa0xxLVc0RzlSV3JvQzVjZzNVUnFZTXR1dkFLLW9ZQkpKVHcwdWJ5VFYtUXFvdHBBMU1nLVNCZ2hZWTQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 22:58:24 GMT",
-    "source": "Yahoo!ニュース"
+    "title": "生成AIは「コロナ禍」に似ている…その先に生まれる、まだ名前もない「新しい習慣」 - ダイヤモンド・オンライン",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtNUlabkV2aWx2djR3bmZyNGVIbVYya3NYbnRHWGJLWTkxbzQ0Y21vUjgxRlhZZHFLMFdJUDRlWDZvemJvYWxNSVJIN1XSAU9BVV95cUxQSUFKN0VkRHNsY0htWlRUTXRLVXNhZXRla2pnMi1WUzVzRWtYSU9qQnRxamRZellvZUNJQVpLVGd3bVJISDZkUzZIUWg0Ukgw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:45:00 GMT",
+    "source": "ダイヤモンド・オンライン"
    },
    {
-    "title": "グテレス国連事務総長、最後の総会演説 ＡＩ規制と国連改革訴え - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ocGdCb2dHdU9INHcwMXVXQkV1ZzVkanZQV3RQMnRydHdSTVFxVnI3b3FPNHZtTlNnOWpXRGx3SW8wU2pDc1UyM0VMTDM5Y3VuSTUxV1NpMzZYazhoeDJteGotNktuTHRWdXlsVVFFdmNORTJWT3FpSXRxSTJZUjQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:49:07 GMT",
-    "source": "Reuters"
-   },
-   {
-    "title": "生成AI評価技術「SEGT」を世界へ｜PCT国際出願に挑戦 - クラウドファンディング - READYFOR",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15UXhrVm15ZmdXbVJQeWhHbUlkN0F6U0hPa1diRG5ueWVsdUZiMDFHU2s5a0pkQnN1SnV3NlJvaW5XdEFYdllGQl9ya05EaHgwQXc?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 16:00:59 GMT",
-    "source": "クラウドファンディング - READYFOR"
-   },
-   {
-    "title": "AI新法において、AIを活用する「活用事業者」に課される責務に関して、他の主体（研究開発機関や国民など）と比較した場合の最も大きな特徴とは？ - techtarget.itmedia.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTVc1Um1OZ2FETHczQ2lSVlJjVEROUVZMRFVoQTB5UzRvaEk5M2NsZzU5OUVPQkM1elVyVGpjcmtjaEVNb05ueUVHREl4WXk3TmZXNHdnZmJ0OXNENUR0MEJqNHlsa2NmV0kxRVB5T1Q?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
-    "source": "techtarget.itmedia.co.jp"
-   },
-   {
-    "title": "本業は水質検査機関勤務 生成AI駆使し未経験でゲーム開発 イオンモール豊川で体験型サイネージ「東三河大収穫祭」放映中 - 東愛知新聞",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GamN0Q2lmcjhiTXN2TzZKX1pxdnhMNmRFZnhiZXVnUmQtRVVyYS1xRlNWeEY1bGRBWWItOGdqUzZzcnQxOEpHc2xIem85STFMLUROa1dRQ1UxZzFO?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:32:31 GMT",
-    "source": "東愛知新聞"
-   },
-   {
-    "title": "「生成AIの勧め」で虐待被害相談する児童も 栃木県内児童相談所は県警と連携強化「通報ためらわないで」 - 下野新聞社",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02U0M1dm96Y3ZWeGJJZGNablRlNUtGb2lEMHY0RmhYejVRVV84Y0xhWDE4NHpEcmFtQmcyZmxZTmNvSW5acFgwOE40QWIwYi1oMF9PT1dmekhUYVE?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
-    "source": "下野新聞社"
-   },
-   {
-    "title": "トランプ氏 国連で演説 イランとの合意は「中間選挙後」 AI規制は「一切拒否」 - テレ朝NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PcWI2SnpsTHUxVk5vOUdXNFRyWm1ndjBwZERRY2w3bDN5UEdWYmZ3VVFweUVTVm11aU83cTYtS01rMXNoTnhla2pORV91Qk15UTJZMVhTTXBhelNSaHY5WDlPVEJjR0FxeXlFOGlVNlFMZzlGR1N3MW5B?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 18:21:08 GMT",
-    "source": "テレ朝NEWS"
-   },
-   {
-    "title": "環境面でもＡＩ規制の機運高まるか…ＣＯＰ３１議長のトルコ環境相、データセンターの「脱炭素化」へ宣言策定 - 読売新聞",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUkhWRzlLS3RqUDBtc2ZKbkRhaTh4RWcwRXROY2xhYS0yVnZwMkVxYnNzbFVXWnB1OWpPdzBlTVdmQWpiN1VqRjhmNzduYnh2MFYzeC1LbmhxR01zSGlMX0dR?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 09:50:00 GMT",
-    "source": "読売新聞"
-   },
-   {
-    "title": "「生成AIの勧め」で虐待被害相談する児童も 栃木県内児童相談所は県警と連携強化「通報ためらわないで」 - 47NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tR0dSM29XWVFMdFBQaWtleXZNSlpvbF9FSzRydkdxUEZSN1QxUU1lcE9laTFlRWpEYjN4emtneVNhbGE4Qk5tQlhDcw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
-    "source": "47NEWS"
-   },
-   {
-    "title": "滋賀県、生成AI普及あおりでタッチセンサー企業が破産手続き開始決定 大手自動車メーカーに出荷も - 京都新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50eDZoOXlwTWZHTTBYUS1oTXp1MzN2NVRXY1Vud056T1NuN0VsSWtSYnJWblY5d1R3MG9JQTk5aWlycXhwMlI2SUo2SzNqdm1PQVlUR3VId0Q?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:55:00 GMT",
-    "source": "京都新聞デジタル"
-   },
-   {
-    "title": "生成AIがもたらすカテゴリー「AIスロップ」――世界的SF作家が予見する2040年の世界 - 新潮QUE",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VZG9KTXJCeDRFcDNteWZSeVdKRE9QaTNaXzJnQVJvcnBrV0ZrM1ZHZTVuRC0zS1FnSkkzcUpmQUthMTZ0cFIwRlRQMTN0b2hG?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 22:04:24 GMT",
-    "source": "新潮QUE"
-   },
-   {
-    "title": "グテレス国連事務総長、最後の総会演説 ＡＩ規制と国連改革訴え - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PU1d2Q25JNm56S3JMdTBhLVA3eDRZMG9YOFdBbnlydm1hQnkwNkdCWHdFZ3lEOWJacnZGWTZOd05MWG1vSTVaRllzcTIzeUZXM1RMYmFHZWdTQQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:48:00 GMT",
-    "source": "ニューズウィーク日本版"
-   },
-   {
-    "title": "アンソロピックとOpenAIが低価格AI 値下げ競争激しく - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yTTN6dGhMQlhoejdXYk1tOUV2dTZuM0phZmVQeTZadHNjQ0pwRmQtMlhMWWh4Z05qWEZVbUdQM0pTZTVkNmNOUkdqZV9QV0hVU2JVVDJJMGgzUlgzNXQ2d29NQ256U01WdExlUw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:13:15 GMT",
+    "title": "教育現場、生成AI使用の全面禁止が必要 酒井邦嘉氏 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObm9zRTMzemU0WTkyNVFaSDQ2eUxhckxRUkpva0R1a0dRTm5CMVdFM004ZjItb2lQajk1d0Q5SkNRMGpfMW5nTDc4U3U1b3pzb0NDcjQ1b0tSWnRwTmJhNWFoRGFNMGQ2dHBfbg?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 17:00:00 GMT",
     "source": "日本経済新聞"
    },
    {
-    "title": "Qualcomm・Google、「Gemini Intelligence」でデバイスをまたぐAI同盟を強化 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sY2RiNUMwVDQ4NlFicV90QnIyaGJDaVJ2bE41cC0zLXB0WVpxWTZ0THBqUk9sQ09UY0tKMjVCSzlsZlRSS3F2NDg5dmwxUnZXZGlKVFl6dXhIbUlsY0tqOU91RFZycURPeGJIakd0b1NtNjNR?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:35:00 GMT",
-    "source": "BigGo ファイナンス"
+    "title": "ハルシネーションに関して正しく説明している記述はどれ？：生成AIパスポート試験 出張版 - TechTargetジャパン",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oQnpBenQzQTRPcWdzbFJNZnVDOEhLYWhOY2JtWDh1c256QmNoN0tieV9HYjVfeTZkNkdQMFY5Ql9CVEVjenhHMTh3ZEFtU2ZmUDJ2OEEyUmUtMVVnNnItYlRrRzBlNEdsQTNWTW93MEQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "TechTargetジャパン"
    },
    {
-    "title": "AI減速は終息か オープンAIとAnthropic新モデル発表 - BeInCrypto",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pQWJPTVRaQm5PRndITllCWWswOURVVHRkUlNXRk9IU0tfVlROVnIyR1Z1blpyN3FIcjVmc3d5c1NKVWxYTlExcEpJSWYzVkV2MS1HazZ3b3ZUbzI1amxwMjJoNjNqelZZTDRRcW9FbXdHTEF0?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:19:10 GMT",
-    "source": "BeInCrypto"
+    "title": "ゲーム開発に生成AI、「日常的に利用」が63％ CESAまとめ - 日刊工業新聞",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCSkFKQXNYTEZONFNsY1VpbzlSazFwZzlIN2pvLTBkeklHTEs5Y2hKWHRCbkpsVFRaM05RWDV0ZUdwUHl5ZVdtR3ktcVhjMjh1ZE5JZDJyNXc?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "日刊工業新聞"
    },
    {
-    "title": "日本のAI安全研究所も名を連ねる、OpenAIが描いた自己改善AIの国際標準の中身 - XenoSpectrum",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HbTU2OXpGZXNyM3NKcWtXWUtaMlN5QjVVNmt5aWNoMVc4TXl4YUVNVXVSb1BkdVBzcTllM1EyRnBmZENEejRtSmZhNlFINzV6eGIxQ0pFenI2ZENDbFRCNU50eWltNTQz?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:49:07 GMT",
-    "source": "XenoSpectrum"
+    "title": "製薬企業の生成AI活用、26年は92.2％ ファンリード調査、1年で33ポイント超上昇 | 日刊薬業 - 医薬品産業の総合情報サイト - 日刊薬業",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5eG0xOW9uU3F5MXdhNmdiTHVGcEtmWFgxaFYxY1FxQ1ZmbHhoc2t6YUFLNEpMVllOdXhscVNodThtZUt4S29aeA?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 19:30:00 GMT",
+    "source": "日刊薬業"
    },
    {
-    "title": "OpenAI、AI安全性の独立したレビューに関する枠組みを発表 - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnpLS2pNcm95T0RrX1dpSUYzYVY4NU1KVTlqSUZYVEZnTGNLajFwYVREdXZXSDRyN3Jyd0FuU1YtWjBOc0tqYnpyU2h6dnEtazhWVlU2RjFTNUZ5eHZiLTlfRXdwd1dfUkpQZ2puN0YzRHo0dy1KTmxnTmJOaUdOTjdFczdTdE40UDR3QXB4MkFkTW9RX3BHdGZxRGdMcFF0aFowSTNlcTF5Zw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 18:18:44 GMT",
-    "source": "Moomoo"
+    "title": "人工知能をどう捉えるか ―― ＡＩと人間性の未来 - foreignaffairsj.co.jp",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KMzlKLUE0MnlkZDh1bHJuQXJWSDFwMlNrZ2Y5SldhOXJJc0VVbEZUU215NlBZNDR2c05vQllrRHMydHJvNUtCRzhqa3JnUXd0SkZ2Rlh2dkFNRnp6LVJyVlRWd1VERTRvdFE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 18:22:08 GMT",
+    "source": "foreignaffairsj.co.jp"
    },
    {
-    "title": "OpenAIとAnthropic、低価格AIモデル投入 オープンウエイト台頭に対抗 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaDZmLXZkY1QzNTNJQzRwVkZtUE12NWthVTEtQzI0VWpNcldrZjFMQUJQMHZ3ZUJXc0ZZR0VwcVdsSjBUbVV5ZWpqVDc3OGFtLVBnWXEzNG9VaEpoYzdEeXZtSTlDVFY1S2RONmN5RUQ2RkVDWGYydnZvaElvT0w3aERDaERzeXZjMmgxNk0yUFpXNnhja3VBSkxYc0JzdmxVMjZHcVlQdl9HNDlLVEFTdDBIQ3dJWDFnWmhSdDFGTnBnNE85QXhWTEtiOA?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:07:00 GMT",
-    "source": "디지털투데이"
+    "title": "トランプ大統領、「人工知能（AI）」を「スーパー・インテリジェンス（SI）」へ 呼称変更を表明 - newsdig.tbs.co.jp",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wRkJJdVlZOFAxSVpnbGJsMEh3STEyRm1lX0tuWWZDTWkzTHA3RVZYZkNZdGJXb2Q4Qk0xR2FhVWN4bTd2ckF6M1ZtazBIMWVCWk5PWjNEVQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:14:29 GMT",
+    "source": "newsdig.tbs.co.jp"
+   },
+   {
+    "title": "株式会社プエンテ、生成AIで制作したオリジナルアニメ「花魁転生 -Oiran Reincarnation-」を10月2日よりYouTubeで配信開始 - PR TIMES",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jR05yTHoxbGN2anRGTmRTSk5Rc24wSGNNdXJlYmJ5OGVXdm9QM3E2TTl6NldpbkFmMHNrMG1tM05BdVNxZWxSZEpZN1k1V3ItTWxueWR0QS1FT21RMlJyUDJQS09vMlBnOVE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 13:44:08 GMT",
+    "source": "PR TIMES"
+   },
+   {
+    "title": "ＩＣＣ脱退呼びかけ トランプ氏 ＡＩ規制枠組み拒否 国連演説 - 北海道新聞デジタル",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sLXg4WUdCekZXZGg3VWxtbG9PMmpPbkF4M2JKRE90MXVULXEzMmpNMUFJenBhdURzUzlwMmllUjhLWURrRXpxWVJQaS1IaTMyaGpuTDlfSEVsUQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 19:00:00 GMT",
+    "source": "北海道新聞デジタル"
+   },
+   {
+    "title": "エヌビディアのフアン氏、人工知能企業への独禁法と製造物責任の特例に反対 - Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tLV9Ia3VRZW80VFBHZ194RXhUM0R1TjB6WDR1X2Y3VzRvRkdzQnRKRDFnc1JMRVRUNDJYc1FaMkJWQU93UENORHJQamczc1F1bjRWbzBjMW1OSXBXbDJaRmR3bE1Sbzg?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:38:15 GMT",
+    "source": "Межа. Новини України."
+   },
+   {
+    "title": "音声生成AIモデル「Gemini 3.8 Flash TTS/3.8 Flash-Lite TTS」正式発表 - jetstream.blog",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0U4MkJQMTRMZVktUDNGOWV5VWtZUkI5X3p6dlY3d3A4WlpacDJIZllUTjMtN2NyMURxWTJFRmJkd2lwM3Jsek0yay1XdDRpRUlaYUVOZXZ1TFg5X3hJZVItOXRoenJEdWdZY0IzM1VoemItZUxoNHNIX1lhVmFlLUozV0k?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 16:07:00 GMT",
+    "source": "jetstream.blog"
+   },
+   {
+    "title": "人工知能エッジデバイスの世界市場（2026年～2032年）、市場規模（CPU、GPU、ASIC）・分析レポートを発表 - atpress.ne.jp",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ST2tWaUQ5ZW9tYVgtSERkb0ZqanpxbTNuOVlKNExfNEZ0OFdZNWloTFVaeHVTY3c4cW1SUXJKdWVaUExxaExyZVd5Z3ZTdVU?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:00:00 GMT",
+    "source": "atpress.ne.jp"
+   },
+   {
+    "title": "国連安保理がAI会合、OpenAIとアンソロピックCEO｢安全基準で協力を｣ - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xQTNEd2ljM2lIRGZvQzZScmxzaUZib1VEcnJydXRZN0hUZmJ0c1RMeFhoS2Z6WjlqeTEyWXhfZkJQNkpESUlyTnFQVDVHQzk5bFc2cXEtWlhrcjFFN0lWV1hRVDRzek9yc0ttOQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:35:06 GMT",
+    "source": "日本経済新聞"
+   },
+   {
+    "title": "OpenAIとアンソロピック、両CEOが国連安保理で発言－AI巡る協力訴え - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zMXNxcEVnbThMNm9WMVg3ODRTcWx1N1dhU0ZHekJmVk8taUJEWm5xTGtyZlVyNkpoWkYyOVlrRjFoZEYyXzFQWGZoUUM2MDNBQi1ScFFPMW9CbC1KbUdleDdQbjFuTENrdzNMR3hsNnE1M0FqNTIw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:17:43 GMT",
+    "source": "Bloomberg.com"
    },
    {
     "title": "【無料・有料別】Geminiの制限を早見表で解説！上限に達したときの解除方法・対策も - SHIFT AI",
     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YZ3lVNVpkZ2JfMWJOcnYyc3VTX2g0dGQzSXRlbVE3Y3RDMjJ0Q004TlJKLVo2b2NqRjk1clB4VUJaQVpETEdXamFB?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 08:48:04 GMT",
+    "pubDate": "Wed, 23 Sep 2026 18:24:20 GMT",
     "source": "SHIFT AI"
    },
    {
-    "title": "Anthropic、価格引き下げと新たな安全対策を伴うClaude Opus 5.5をリリース - Unite.AI",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGFQSHdPLVVnU2hiZ3NoMmxFcHFFQ1hERzJZWkZ2c1BCVEpyRlNVLThqbE5jQVl6TWdXcl84ZGROcFRtOURqSWZ2dXpWem5VaUpYRmpqa29vRWFLSW5zNTZUMnd3Rk41NFVXcDdRdmptRV8zaTh4ZnFiWVMtc0w1Q3dQemNmc2FNeXJKQS1Ha3ZLVkhZMmNJNFZGUk40Zw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:33:51 GMT",
+    "title": "OpenAIとアンソロピック、両CEOが国連安保理で発言-AI巡る協力訴え（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DQnJ5dkRKUjVRVVF1aVJqcWpMTXF4LS1iVmFzRGxpcURocEl1SU03bkUwakljQ3ZWSUNqdGxGTFphakxSbzE5M01aa2JwT1dtT2ItWFlkUU5Kczl4aUVEaVBuejh5UXgzTXA1LXZmY1QyeVYzZTQ0ckg3QUY5dUE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:32:13 GMT",
+    "source": "Yahoo!ニュース"
+   },
+   {
+    "title": "OpenAI、AIメンタルヘルス対話向けにMentalHealthBenchを発表 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUUtT1luelRoMlU1VEFuelpkUVZ5c01vekNnVEprTGNfTnBwV195YmZaazlkQ0dseE9CdzB1N0o3S1o2SXZaZi1SY1pHbDNsR0ppX2ZmakdxY29pcTNMVHhUZHpiQ1ZZaDNOeVhIVFpRWTVMMHdJWEE0Q0t5VzBKbnNCSFBhUG10am15SW9mMWFmR0RPNEE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 19:40:35 GMT",
     "source": "Unite.AI"
    },
    {
-    "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」 - ITmedia",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CZWVfb2IwWUdyc1k5M0dwZEFfM0VTNVFySGp4T29FSzR0WkNYeDJweTcxZ0NlcjVwN3ZIYzdSRGwyS29OOUUxeEE3ZmxvLU9KTE53dTV0UTZvZmkyOVZvVEVQWHo5RzNKZWc?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 01:51:09 GMT",
-    "source": "ITmedia"
+    "title": "Anthropic、Claude Opus 5.5でHuaweiおよびAmazon製チップ上のフロンティアAI開発を制限 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5meG9NcFVteUhoT3dKaVRzSkRyWGRyRWVPY09jRUlqSzhUT0FCV0VQMHdwNlB4Wk5nNm1jZ2lXVnB0SUNtZERUYmdXNXI3dDFNa0hmWFBSNFFDNjExUTYtNG9hb3FpSjl1SEljUzA2VDBxRFpi?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 18:40:00 GMT",
+    "source": "BigGo ファイナンス"
    },
    {
-    "title": "OpenAIは、AIが「常識から逸脱した」事例を6件発表した。 - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZY1g5ZklQUzFfOTNDcW93SmVEYndwcXdidTRfVW5BOTlYdGE1XzlOYWRXVHJqcXlRdzBVemdlR3VtczBoazVOb3ZJdGpPQmktczd0VllDdURraGFQc29mX0FlbWFBN01JY2NIYzZSRQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 08:52:14 GMT",
-    "source": "vietnam.vn"
-   },
-   {
-    "title": "Opus 5.5の発表日にNVIDIAの流出でGPT-6 Solが判明 - pasqualepillitteri.it",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2phUllGQkRUcHdiVC16WURLYXo3ZUNtSmY1eGQ1T0t1TGNkb3k1Z05aZEhqdXZCQkcwVFpDM1dWTjJXQVBMSjBpanh5ZTZSWjN4eEJmR1RoM2ltV0loZTUySmxpQmVPSEVWM2FOaVZ6QjRlMlJVaXdpN2t0RXVRMg?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 17:49:19 GMT",
+    "title": "Claudeも利用上限のリセットを試験導入、Opus 5.5の発表に合わせて - pasqualepillitteri.it",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZm1FbThWTVRpby13RlE1amVCWGQzbGRGMzNzc3QzY1VwWHdDSGZKVVpzaEUwSDY1dmtfdVlrMTdNdU43MURUM0d5bWZNN3ZkWlBGeDJpRUVrQzY3RUpYb3JfWWVPV0lfX2w2ZEU0cnZMUnVrSUZhRlVESEtpS2JlRE5QLXpYRjVEZW1lcGp4Ums?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:54:29 GMT",
     "source": "pasqualepillitteri.it"
    },
    {
-    "title": "クアルコムがGoogle・MastercardとAI決済連携拡大 - biz.chosun.com",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wdVdGX0hWX2hVNGxONk1DRm5Ia0V0LUplNjZ0cVZFVUg1cVBCdnN4QkFxWVhSMjhxaTY0dDJvLVQ0elRfbmFQSzY1RFptNFp4cHlfWTBlMHRFTmFMenF6ZG05cWFoWkRHcnJkNDAwbDJzVDFmb1pKbHdB?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:08:00 GMT",
-    "source": "biz.chosun.com"
+    "title": "Google、新音声AI「Gemini 3.8 TTS」発表 声を作り、台本ごとに演技まで指定可能に - XenoSpectrum",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FSy1yY3VWMk04LTRsZWM5c1RiODZLTmt2emdIMWpSYnF1dENEcUNZZzUyUkNaeU00Ql9MLU9EbTJ0ZDRYTDdJd1RTTVptV2VDTTkxR1dYM2Nxc19Db2NRci04OWhIay14WElV?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:37:33 GMT",
+    "source": "XenoSpectrum"
+   },
+   {
+    "title": "Anthropic、AI研究開発の26％を「Claudeが主導」 1％未満から半年で急拡大、人間は監督役に - Ledge.ai",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxMnN0QXJSb0pVRkNBZ09icVQ1YklXeVZ5anp5YWxyeUpkUzdaVEZITE5qWnd2NVhqZkoxQ2ZCSV9jRFBmT3FqczVvdWlyb25uVEhiTV9NNGxsbENXNTV6WWhVVmZ0VVk?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 05:08:25 GMT",
+    "source": "Ledge.ai"
+   },
+   {
+    "title": "Google、「Colab」のプレミアム特典を Google AI プランでも利用可能に - HelenTech",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kX1NUZ2tyZnZQZGZtLXFYeno1WVMwcTFLRG1VdU5JcnFyWkNuQ0EwZmExOGZQeDJ2VEpIUlY5NjdoUG5fTFZRbmlMMmtwRjRuamZwbmhHSjdBakxvbFptWEtZemhhcjI5cE5vcg?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 02:32:07 GMT",
+    "source": "HelenTech"
+   },
+   {
+    "title": "豪首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIN2tLUkYzR1M2elhXSktDaThhQnNFRVdhOUNlMlRJM25rMFJGamwyalVraE4xQmpZN0tZR25TVnJiY05FcGlwd2s2amJUc1Zvb2pBc1NqU0xMSTV2ajZvRDVlNmlSU0Zfbkg2SQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:27:29 GMT",
+    "source": "日本経済新聞"
    }
   ],
   "semiconductor": [
    {
-    "title": "台湾積体電路製造股分有限公司【TSM】：株価・株式情報 - finance.yahoo.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xdTcxNWFHTmcxM1RUcWhCWktEeDJHeGc1eEFjZ0FqUWlhT2laQmRtcW1DNk1LMDZBOVMzTjNxUW5oVnB1SlpGQ0hGc3ZDZw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:10:27 GMT",
-    "source": "finance.yahoo.co.jp"
+    "title": "NVIDIA、HBMの省電力化技術 クラウド大手のAI半導体囲い込み - 日経クロステック",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pbUFEOG1wdEdEUW91cl9FbGVGWHNPMGlFSTg4X3FsdE1CdGVfY0dlMTFxZV81c21CWFhTZkdHUklacXpNdXRpbmFFVHdzcnVvcms0T1ZVUEU2OExlY3E0SXdneXZBM28?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "日経クロステック"
    },
    {
-    "title": "【半導体業界の5年後大予測】キオクシア、アドバンテスト、東京エレクトロン…半導体業界を襲う「5つのリスク」とAI半導体の「勝者」をトップアナリストが解説《再配信》 - diamond.jp",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03MEtPR1lRY1FHRlVyWnlVM3pmWHpzcXljbktBcVJiT09nR3BELVB0Q2NIRzZCUGNla1h6TmJHV2xnWmQ3NGJ6MFpKOFNNWlXSAU9BVV95cUxNNzBLT0dZUWNRR0ZVclp5VTN6Zlh6c3F5Y25LQXFSYk9PZ0dwRC1QdENjSEc2QlBjZWtYek5iR1dsZ1pkNzRiejBaSjhTTVpV?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:30:00 GMT",
-    "source": "diamond.jp"
+    "title": "「AI・半導体以外の銘柄に見直し買いが進む」資産10億円超の兼業投資家が見通す“日経平均株価が史上最高値を更新するシナリオ”とは（マネーポストWEB） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05emFWME9Pc2ZxVXBUT2RIM0RhanVjdFpuczdQUUZMYV9sMkZfVDJmRTdhSGFIY09zZ3dXOWNILXplVDBlc3JkaWtxeF9KN3Azd1QwMVlEZVlBbXdQOHVuVHJjTEJlTUJ2VXZSZVdqSTdadXFhdGluQkF0cjBBLVE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:17:02 GMT",
+    "source": "Yahoo!ニュース"
    },
    {
-    "title": "半導体装置販売、8月は47％増…TSMCの投資活発 - ニュースイッチ by 日刊工業新聞社",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9YNURIZFRDdzRCbGpWVkhsbHNPMFhlWUxObDRkRGZxOEp5eW81YmZlY0NFYlE3b2V1SE5JeDZoTmtMQQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:03:03 GMT",
-    "source": "ニュースイッチ by 日刊工業新聞社"
+    "title": "〈半導体分野でも存在感〉ヤマ発はAI特需を起爆剤にどこまで成長するか？ ロボティクス事業｢第3の柱｣への期待と課題 - 東洋経済オンライン",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOblFMaEFWbURreE55cmlwaUhuZXNPNXpMcWJlVk5oVlVTRDRsck42NEZla0hxUDBMRXFNNWRfZDl5OHpMZGVaNDF1aE05X2xJYWE1eXRHUUcyMGtLdXln?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:00:00 GMT",
+    "source": "東洋経済オンライン"
    },
    {
-    "title": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文 - NHKニュース",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tMm42MlhER3BUSHlRZ3ZJYVUzWWdHa1YxLUE3TE85dU1STnhtSXRNVW9NTE00bkFReHdWdW16OHBsWnI3OWhrRVBRTlFBc0NkRVp4cE5ZRGhpRUZSbTln?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:59:52 GMT",
-    "source": "NHKニュース"
-   },
-   {
-    "title": "サムスンが半導体工場向けロボット開発を加速、製造の無人化推進へ―中国メディア - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0w2bEJJRXpDS1B3dFFrWThTbVlsdnFKemhqQmlITjZGMllUQXFrbU1aVklzaXdpWDhHVXdMMUZKbnE1UzFwZVJfY0NzVHZKWGIwcXBFd0QwQ1ZRaFVOT2pEM05BNHk2SDFBS1p3cVpFdjFrZTFQeExXTGR1WnFyZnN5V0lUNW1nc0s00gGLAUFVX3lxTFBzTDZsQklFekNLUHd0UWtZOFNtWWx2cUp6aGpCaUhONkYyWVRBcWttTVpWSXNpd2lYOEdVd0wxRkpucTVTMXBlUl9jQ3NUdkpYYjBxcEV3RDBDVlFoVU5PakQzTkE0eTZIMUFLWndxWkV2MWtlMVB4TFdMZHVacXJmc3lXSVQ1bWdzSzQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-    "source": "ｄメニューニュース"
-   },
-   {
-    "title": "韓国サムスン電子の労組、半導体部門中心に再編…家電・スマホ部門の組合員を除外 - AFPBB News",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GXzZqS05tM1pCczAxOHo4ZkdZaVFydFZ0T2pJLW5NNWNUdy1pbFM0TXA0Nk9rQjZrTVV6NmpmNERpWmc2eHlZeXB2elVHa3hvYWfSAVRBVV95cUxQcGI5ZW1zNWhoMHFkeXRRSU9Dam10ZzhGbXpFQXV1cTAyUndnXzBfek52ZGlGS0N1cnQxaWVxUnNwNGhLUkxucjVRa0pCUXpLQlFSb3o?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 22:48:43 GMT",
-    "source": "AFPBB News"
-   },
-   {
-    "title": "AI半導体ラリーでNasdaqが史上最高値…S&P500は一服 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaOTN5QXItY1VMaTY1S1pMMG5VOXdraTJlaWpkb2hVb0JEYlJGaEdqTEcyUWdGczlYOGY0bzk2b21McHhybTJubklLY0lkMkw5MU14VTc1eV8xbW9ERUJIV3VhcG9OazBOTERNU1M1Vy1TVllX?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:55:00 GMT",
+    "title": "TSMC、2027年1月にファウンドリ価格を3～6％再値上げか 先端プロセスがけん引 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mMzlvRGc0eWItcUE5SHJPT1d2UU5fQnVpMlBaT1o5QXgwVlc5LU5hblJsZlJ4bkFGZVlIeG5GTEdyd2I0bFBPSnlaZDhUZjNaVERXelg0NmJselZpRkpFZW5ocG55akZFSWxwMXhieXRfWlM0?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:35:00 GMT",
     "source": "BigGo ファイナンス"
    },
    {
-    "title": "ダウ平均は反落 金融株が下落 半導体が買われナスダックはしっかり＝米国株概況 - 株探",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yRGVCLTZWYk51QlhlMGIzeGlzcWFabV9QUV9xVTZuc1hmY05nRlEtVWVRaXpuTVZsYncxdXRJay02WWRmcEdqUHBhckpaZVAzNUE?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:32:00 GMT",
-    "source": "株探"
+    "title": "AIインフラ投資の本命を探す 米国半導体とソフトウェア株3選 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmVyN0FVSXdjZHZ6SER1dWIzU2gtTGlpNkxFS0QxQUdGRGV3M0pxYWgxOW4taldNZTBub3lfUHUyb3pUa0lTdHlOZkpNQ3prcE1ubFNDenZpdDhmSnlhTzdIQTRhSlQ0eGZkVnRXSXRFYmM5bE1HWkU5VVk5UTJ2UkN1SldVTnVuQUFkWmsxaWpLS2szcFVBNGo0VFLSAaIBQVVfeXFMUHpRUkdCZVBUTDhKanZmY3RTN3BaSFBKS0FSYlloSWNtRUhWNUl1MmlMeE9Ha1lORi1VQjNYOE5DVzhNREVUM2ZHNWs1ZTN6SkRCa2F1NzFVOEJuWmtucmF6Si1BRUVHVlNlUHRkeVY5blFUakxxZ2tUdEx2Wkwzc0MtejF3QUdkVzdkUTF0RjhkUm1nNlhoZm5hWm04WTB1RWp3?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:50:25 GMT",
+    "source": "simplywall.st"
    },
    {
-    "title": "半導体業界向け清掃会社 - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEVqUDVES1dKNEFsQ2dPR0RSY0U1cjIxZG9Bd01GZngwZklQbnNRQnEyQXNtemRVZFVoRllEMDM0RnpFVUdXelpBVC16VmlsajBkY1YtTjVXaGh6MGtWeUJrX2cyVGlVLVBoRExtQjNrX004eGRjcEVlSmpxc0Z5djVlTzdwRkZnMnZscWN3Y1luWmYwNWExMzVlaC0wVl85T2c?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 16:54:45 GMT",
-    "source": "Moomoo"
+    "title": "KSGIとジェトロ熊本が協力覚書 半導体エコシステム強化へ - dempa-digital.com",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90T3VEZnBBbzc2TU1iNXZYRzVHUE04akdzQ2tIblFGcWhTMVlCeU0zOHkwejRoRkVOcV9qOWtKa2NjYUV5QWdScnZxNDdZT1FtMnc?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:11:02 GMT",
+    "source": "dempa-digital.com"
    },
    {
-    "title": "エヌビディアCEOが「頼んだよ」と直談判 岐阜・大垣の地元企業「イビデン」はなぜ半導体ガリバーに求められるのか？〈過去1年で株価7倍超〉 - 文春オンライン",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHOGF2bkNNVm54Z2RBMm9JaGVNdDVMLVpjSGZrcEp1UG81NER5THh2RmZkRDhyNTB2aWNUSXpQZWJYYWhGS1lIOGh4Yw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-    "source": "文春オンライン"
+    "title": "トヨタ、複数社の車載半導体で同じアプリが動作する「拡張Arene（アリーン）」 フィジカルAIロボットや家のプラットフォームにも適用へ - Car Watch",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50OTdUSmhxMkNOeFhuV1Rra0FZd3k4Q1VDQW9iZ0NVWDFueXlCblNKVlVtakZqczVZRFllUGZJbmhkcmZIaTRmOURwcUFkM2ttN1BEYXlqLXl5SnNiUHRBbFkwTk8?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:35:00 GMT",
+    "source": "Car Watch"
    },
    {
-    "title": "世界半導体関連フォーカスファンド【09311239】：基準価格・投資信託情報 - finance.yahoo.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02b3VKZ1V6cWlQdHBWY3BjYWlFcjMzdDZ5NjdPYS1teEd4cVZfUzZfdkhnZzl2d2lIVkRTMjd0T21aZ1ZSYi1hWndSamVZYUt2c09iWg?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:55:18 GMT",
-    "source": "finance.yahoo.co.jp"
+    "title": "決算:中国半導体の1〜6月純利益7.2倍 AI活況、製造装置などに波及 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLdFQtTVNGazdXWFo3bGduNC05dWdHRjVVbW9tZFkxVF9xamZoTzMtWXdLQ0F1ZTBTSUwxVmdXVXhTZnViTG9rOHk1YVFVVk1FMkM5b2c2RWZZbGlsTVFCWU8zcEpmVlZHQ25xQQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "日本経済新聞"
    },
    {
-    "title": "韓国の消費者心理、9月に反発…半導体好況で所得期待106.6 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuZml5cTJJSXg5Y3YxLWgtNkQwcnE3T0RrYU9SNEhZOVBLY2Nibkg1Z1pKV2htOEJESUE0cmdZMEZYYWJxeVdKa0c0VmJ2bXh0b2k2Nm81T1ByTmFTNExueDBQZktPQTFna01jQkdhYUtDcml5?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 22:05:00 GMT",
-    "source": "BigGo ファイナンス"
+    "title": "インデックスファンドSOX指数(米国上場半導体株式)【02313239】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbGNfS25qREhCNWgzWFBXai1IWXlGaTdjaTdWakRPUWdRTG04SlQyR2JwRXlPZ205bFJDbFFFV2lZamxDRml3NDctckJkVHdzQXhRNw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:59:03 GMT",
+    "source": "Yahoo!ファイナンス"
    },
    {
-    "title": "ドラッグチェーンコンベヤ用リンク市場2035年予測：半導体工場の拡張とオートメーション需要が成長を牽引 - ニュースと統計 - IndexBox",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOG04WUVQdE1EakF1dDNsQThuZFlPcHlYdkpRdGdReGRUaGhJUHNPekRCSjhMaF9rZWlGRnY1bnljcWNOZmo4X1VmT0hTUjhJaGlNM3VCVVhzU25VWU1XUGhxRGlFdHhkR0Nodm5sal9oNi1jWFFnR3VCc21KOEF5V0NXMWl1U1N0c3JyMVN5NTVvUDlZVzVPLUtpdG5DUk9TdDJEYUI2YnNRc0laaUV6bVROS0N2anRCNWtybHRLOTlPeDJUVWVMTjl4VkZRYjRKY3o0?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 16:31:09 GMT",
+    "title": "「キオクシアHD株は配当金をケチれば暴落する可能性」と資産10億円超の個人投資家が指摘 「AI・半導体関連銘柄なら“なんでも上がる時期”は過ぎた」の真意（マネーポストWEB） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3TlpmQUdMc1d3dDdXbHpKbFhsTVR5VjRjZ0dscWd6UlI2Nk1LdXI4b3FkeHUtdHFQa1pJZU1pTWpyUHhCWi1wd2xmbjJ6N29mZE1CNl9sZFVZRHVhMFNRUHQ5WEVTNy0tODZKRWVsWUEwRXhWcXpFVG9LZEFWZGM?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:17:00 GMT",
+    "source": "Yahoo!ニュース"
+   },
+   {
+    "title": "編集者の視点「AI半導体新興、ステルス抜けて210億ドル」 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1hlcDlpbDZ6X1VMdkZvTUJLZDBMc2VGYUtJSm04NXJZVHJuZmowY1lsWDdpZVZsRDBTcTRNVFNlSG5qcVJfc2Joc29JdkJ3MUpEZFRvOG05Q0ZfYTVwT2gxUjdNRHlKY0RwLVluaHJTdHl6OEU2WW1SV2JLMUdDY2ptdHluSkE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "日本経済新聞"
+   },
+   {
+    "title": "野村 インデックスファンド・日経半導体株【0131124A】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kdWJjMG4zeEpfa1VkM19nSXJ0VHAzY0x3c0t4bjFKZlJxUGNmcXRidjd5eS11YjVmLUR6RlZaUGMteFF5eXpRQmFYWXNxLTA2QTBRLQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 18:08:13 GMT",
+    "source": "Yahoo!ファイナンス"
+   },
+   {
+    "title": "富士フイルム、印に半導体材新工場 １３０億円投資 - 化学工業日報 電子版",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qd3FFRXUzTzR2NHplVmhJX1hweTExQWVfMXFMWHBaMmZsc1EwSVFoU0M4UTU3YWczUHZGcjNIRmY1Uy0yckh1WTVnYnFtUzZsXzZJ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:02:59 GMT",
+    "source": "化学工業日報 電子版"
+   },
+   {
+    "title": "半導体用ガス市場2035年予測：工場建設とノード移行が成長を牽引 - ニュースと統計 - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMGJZVndQdXdXWjNoN0lhTWhCVXlOU1RuOG9JamVGeWtwaWdvVHotVnUyVTNSQmxPZWl4c0ZtSFRHWVB3MTlGTExmRTRHVFZmVS1qbjYzVXJXMVNESFRNV2k2Zk9qT2VLTGtRdC1OdjZwRjczVUllUGF1bExWWHN2al9PY3RyRjU0RnNlVTJhZjdEbUh3SU9TVnVTajYwb3pvY3dGWWxkVjJhNkxqUzVac05TcE9iZjl0bGk0R2pUVVN0bWFRZ1ZwMEdNal9lbDZiV0x1V3J2QQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 19:56:04 GMT",
     "source": "IndexBox"
    },
    {
-    "title": "半導体関連 世界株式戦略ファンド【64311237】：基準価格・投資信託情報 - finance.yahoo.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJa3ZKeU1fQVc1ZEhUT2ZqaHE2TWFqMFBnaVlfazA5d0h1Tld2bG1lcU1YSmItUnByVXlHZ0tpdnVjNWlQMW1RWm5FRjhubWN0N0MzRQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 17:18:05 GMT",
-    "source": "finance.yahoo.co.jp"
+    "title": "半導体廃ガス軽減システム業界動向2026：市場シェア、価格変動、投資機会を分析 - Newscast.jp",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ESUFHWGg5cGNJM3BvbFB2eXJmY3hhREN2R2Y2cldyQkVMSS11S3dVc0tIeFNZUjRmVENvUDk2QTFBZ2ZrbWdrWmEyOEstRXc?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:37:00 GMT",
+    "source": "Newscast.jp"
    },
    {
-    "title": "半導体工場近隣の百貨店、若年層の売上急増 - nna.jp",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82S2EtM1ZyTG83d1Z4Qkdvd3lMWERiNDFpVzk3MkdDQkNoeU1YZlVad3d5bnFqVjVnaTZmNDZPNllhLWZCa2c?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:00:00 GMT",
-    "source": "nna.jp"
+    "title": "受注は14カ月連続増！AI･半導体で沸く工作機械関連5銘柄 - 四季報オンライン",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iVGhGN0RiaDNaR3RqZ0hyY0xPM2xJQnVRam0zSHFPajA2alRYN0VETTVHYV93XzFPcDRhV19SUEpPMlk4RHpkZ0hGUGZBXzQtLTFQNE9nVQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 09:30:00 GMT",
+    "source": "四季報オンライン"
    },
    {
-    "title": "中国の半導体投資は止まらない？日本トムソンの好決算が暴いた\"中国特需\"の恩恵銘柄と、ある日突然崩れるリスク銘柄 注目20社｜日本個別株デューデリジェンスセンター - note",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSURCYTZiVHRnMldsUWJYVFFiZW8tb0dvYmstUFpnYTJEaDZlb182cElnaUlRQWpJVHY1QWlrRXQ5Mm9kc2JQVXUyWVV1VlJNdmJ4cUJrVkoyZjQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 12:30:00 GMT",
-    "source": "note"
-   },
-   {
-    "title": "韓国、テキサス電力プロジェクトを選択、米国原子力投資を検討 - IDNFinancials",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanN3MmRWa0tPTy1zSWN2d1FqNDg4X1JzS1RIRU01MUNHR1JJTHlTQTQtcWJIa182cEdhbUx3SXVqaFhkdm9rZjJ2YTQxMTRra3gyVEZVMVl4eUN4dXRlTmVFUG9lWnlIcWZIbGQxTXg0eG12VHlQemVRX3VDQlNidXV5X2FBM1dybTJ6SUlXQ2d1TU9QM2VtZW8ta21Ya0N0T2Jxa3A1M29BUHlIX3BSVg?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:00:00 GMT",
-    "source": "IDNFinancials"
-   },
-   {
-    "title": "米半導体業界、2030年に最大15万7000人不足―工場増設を阻む人材確保の壁 - 財経新聞",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10Qmg4MEV0Q2tfMjU1RnYxb3prVk82ME0yeU1RLUtGZWlHTHAwRGh1R2dIeURIdGVhWGFMOTRGZ0pUNkVlU01LZkxSLVBycFBycHB5YU1meFRzVzQ5Unp4TjJUNNIBaEFVX3lxTE1PLXRtTWJ0TC0xcEJXT01lVmVtUW56N1dDZF9jckNFN1Z4QkVKZmxFZnl5VldpWHViQ19DX0ZiUnM0cG10MEVRS2Nad1lJNWhuekFwM0REM0JrMDVkaWd2N0NFZmgxZThO?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 08:24:36 GMT",
-    "source": "財経新聞"
-   },
-   {
-    "title": "「韓国半導体の堀は深い」…ウォール街出身CEO、韓国経済の黄金期は10年以上続くと予測 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0NUxHNkxteG9weU1VWUItcWRaRDBaXzlZQkhhTnBwTW4wbmxJSlNKTWQ3Q1B0WXBqb0NTTm1TX3dTbGthcldMYllMVkdoZUJMUmhnRG5kNHVwX0x2eldGTmlFLWlwdGhPOG1NU1NiRmdGVFNY?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 05:57:00 GMT",
+    "title": "米韓3,500億ドル投資協議が突破 第1号案件はテキサス州の223億ドルガス火力発電所に - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NTkxLNmxOa1ZtNHdqdXU2VjJQR3NEYmcwY1VFb2xUSlc5LVNqRGVHdnpPZDh1aHpkMzE4cUlkbEVUMmtQTnd0dklmVFJOMTVqWTNmOGRnSk10WmY5c1BqdHp4RmJYeWpyM0t0RUs4ZTYwZ1d2?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:55:00 GMT",
     "source": "BigGo ファイナンス"
    },
    {
-    "title": "イーロン・マスクの「Terafab」に商標問題、半導体工場の立ち上げ前に思わぬ壁｜Semiconductor Geek - note",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5OFpYQXdpUzdKNHF3MnZxZDgxWlNramN2ZkkwWUhGSjJocDJyV21SejdpSEotOUVRLWF5WlhLdF96VUt3alUzLTRvbjYyME8yRWJEVzE4S3g4a3F2blE?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 10:12:24 GMT",
-    "source": "note"
+    "title": "【産業分析】台湾製造業の固定資産投資が過去最大の2.5兆元へ。巨大マネーの行方と業界別トレンドを紐解く最新レポートを公開 | 威志企管顧問股ｲ分有限公司（ワイズコンサルティンググループ）のプレスリリース - PR TIMES",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IaTBUM1JIS3pWTVR0YzBBdFpJVEtPazhOTFJwNW95ZFpkMlVYa1VkOVNrbDhWVjdRZnlkTFU1ZXEtMVI2Q1hEb1gzajdaOFMzbUxmSHZ5bENINEJKYzFyNXJlbE5HYjlhN0E?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 02:18:37 GMT",
+    "source": "PR TIMES"
    },
    {
-    "title": "粉塵抑制用界面活性剤市場2035年予測：半導体クリーンルーム需要が成長を牽引 - ニュースと統計 - IndexBox",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbERwRUFBWXFrbVVjTFJILVB0REx4VnFyNDRKejhRYkdfQU5zaG5HMlBzb3o0bUFtX3EwWlpPcDJWZDlBcFRhTnBOdGo5SE5XWGFGWVlKT0JWY2RkcjFZRXk0bEVJbFgyUC1OUTJjSmt4M2FWOUlHMy1UU1NjQmRJc3NiUzZWS2dQU0NPWjZRNlNJZ2t4YnR6dFktRi1tS2lpNUoyaVM1QW90NGRUSWhrMVpuMlJYX0c0OHJWbmRuZERRQ0E0QTIwZElDYWVfeThSOXlRejJ3Zw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 18:41:23 GMT",
-    "source": "IndexBox"
+    "title": "高純度酸化イットリウム（Y₂O₃）パウダーの半導体市場における統合：市場構造への影響（2 - pando.life",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QdTh1WGN2VGU4akhueGdNdFRZZDdiMnRGNjA3ZFV4OHhualJHU3hBaV9kT3FKTlNZYVpXam1Ob2lVQmVnTHRQZ253?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 10:31:09 GMT",
+    "source": "pando.life"
+   },
+   {
+    "title": "「NISAでオルカン」の日本 vs 「半導体メガトレンド集中投資＆ヨンクル」の韓国。日韓MZ世代の投資・不動産リアル - korit.jp",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTlBc3dFZUZSRVVvR0ZxcjEyR3piQ2pjSFVOR05IMkszYUg3c3pabTY2eUF1SHBvUFVfLWhQeHo5aWtjZUd0dWo3LXNDWXkxNG1ObW1PRzRmYmw3Vk5pZ3FER2U1MXdRUVFhLTNLME9ydUh2OTJqeXJ4ekNCeTdYZVNMU2ljYWN0R2ljWTVGcUFaQlNJQlBTNWY1VGNqV1QxWjQw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 01:03:07 GMT",
+    "source": "korit.jp"
+   },
+   {
+    "title": "アリババ、新AI半導体で株価上昇｜今後を左右するクラウド成長と量産リスク - jioinc.jp",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbk8tenQtcjRiM3hCaFBmcElHTEpHcTNZS3JKeFFKZ0ppdHFNUUJqWTV4U3hIUUV1bVdFSVF5QUdIZlFNVTNpMGJZUnJiZ1oyQnFKLUtqX2VHZw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:00:00 GMT",
+    "source": "jioinc.jp"
    }
   ],
   "carbon_neutral": [
    {
-    "title": "【案内】福岡大学：カーボンニュートラル推進拠点シンポジウムを10月開催、高大連携による脱炭素教育を議論 - みんなの広報宣伝部",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NQzZ5S0Q4bkcxNXFjeE9wbGM4SHFWSXFyQlp3ekRGRG93aFdqOUpSRU4zRGJ4SmE3YTc0ZEplUFNURTI3VExNY1BLUTVFY3lPSkRUSW9sbkFvMkI4dWwxY2hoNTRyNWZOSUo5cldjb2NnQQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 22:10:49 GMT",
-    "source": "みんなの広報宣伝部"
+    "title": "GX 銀ビジネス【579A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13WWFtTkhLcXMtaWMtYUVTY19zRmpZVXpaeVBGRGQ1OEZCeHpJamdZSHhJcnRMOHgzUmdaRnpXeXI4MVNNY3VqSVBFT1FsNmxFdWc?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 16:46:40 GMT",
+    "source": "Yahoo!ファイナンス"
    },
    {
     "title": "福岡県が「GX戦略地域」に認定、9地域から最終審査で 大規模データセンターの集積に意欲 - EnterpriseZine",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93ZXN1OUkyaHJvWHJCRGFvbDVra0tpNmc1cU1rckRzRVYtVUViV0ZPaGVkRzBiUXdjZnJkMEFoYVo2VVY2dHphTGtmSHFkVUYtZjJaWDZ3?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:43:54 GMT",
+    "pubDate": "Wed, 23 Sep 2026 21:13:09 GMT",
     "source": "EnterpriseZine"
    },
    {
-    "title": "経産省、GX産業集積18地域 3類型定め支援 - nikkan.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04eXdXa19MNTBOSFZvZUxHZFVxLXB3VzA5bzBGeGhiN0ZRTEUwcUhJb215a2RPTnhmTTNiOGQ3MDR0eExGdnlmYm1vaFFYQmQ0eHpHQW9lTnU?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
-    "source": "nikkan.co.jp"
+    "title": "クライムワークス、コルシアクレジットJALに供給「価格上昇備え」 - 日経GX - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TFBqRjV5aUY0MVF2V3pmbFJpVnE0b0NFaFo5ZXd6a2VhT3BIcm1yY2taSnplZE83aWRnUnlxSDZzWFJHRFhPb2RCTXFGUjA4c1dGQWNRSE9kVmtjdGprQmcyMFpFZ3ZVTnlhaTNhOFN4dl8temxJ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "日本経済新聞"
    },
    {
-    "title": "GX チャイナテック・カバード・コール【576A】：株価・株式情報（夜間PTS含む） - finance.yahoo.co.jp",
+    "title": "とLongevity Partners、不動産の脱炭素化戦略の大規模展開に向け「REsponsible Asset Solutions」 を立ち上げ - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZHQzZEhOT0xaMDJrRzlfSGNXOElEcGpFeC1KdmdLYzJPQy1rWTJQckFfbVZ0bmJodW9HNlhwTklUOGRfMlFhemU0eHRjdXdPYU9JcDE5VnY1Uktzb0ZZNW5jMElsSkk?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:02:00 GMT",
+    "source": "Business Wire"
+   },
+   {
+    "title": "福岡市の脱炭素へ官民連携／「グリーンビジネス・コンソーシアム」会合 – - 電気新聞ウェブサイト",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KcVNmSVdHeXROYnBwRHdjZ2NPVDVNSThnUUVTMk1xSGpmcWx0Q1dHYk5sc3RBMVk3ZERZdjFsNFlRQm5BWHVuNWdhQmcyLTJibWlzYnN1TQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:01:59 GMT",
+    "source": "電気新聞ウェブサイト"
+   },
+   {
+    "title": "深層断面／三菱重工、CO2回収飛躍 脱炭素本格化 - 日刊工業新聞",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HUFo5Nmk0c3RSaGt3dTRtbkRITzB0aG96YnU5WlB2LVNsTXJoMGc5M1NudnA3SDBhYlVVY0JTTTFqUUVMdXpRaFNBQ3hMVXoyV2lGMlBsYlk?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "日刊工業新聞"
+   },
+   {
+    "title": "【脱炭素・SDGs・ESG】バイウィル：中国銀行の太陽光J-クレジットが初認証、913トンのCO2削減価値を創出 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIZGFQcFYzYU1TZ2RWRnJucFdiNHFpeW96RXU4QmdyNFhQTnF1Y2ZXS0dtdkZVSEpjczV4dDdkc0xtcE5oUmtySHc2Z0ZYaHB2XzI1cVNxbjVHbURJZXVZUXpoRUFzb29TU1BBX1BIVmRzdw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:18:21 GMT",
+    "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
+   },
+   {
+    "title": "脱炭素、温暖化対策を推進/新技術を各国に横展開/笹川環境相就任会見 - 建設通信新聞Digital",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJR09kYUIzaGRIZGRUNXEtODFMOTBqVi1Jc3FYT3dEY0JjSC1rZ19PLVFkMW1sbm9FN3NLZ3hYaE1GR0d1ZTdlZWRlcUljUmZVTk0yaFpCVGM?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:49:04 GMT",
+    "source": "建設通信新聞Digital"
+   },
+   {
+    "title": "下水処理で脱炭素推進 金沢市、２施設に太陽光パネル｜政治｜石川のニュース - 北國新聞",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13OHFjejVaa25mY3ZRV01HU20yZERyOXlRMlJjaTh1OWtpTWMtbVk1eko0Tk1VUHpXRW9iN3lfM1dRb29SRzZ3RjB4eUhmYUZDZDlGdjVPQQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "北國新聞"
+   },
+   {
+    "title": "GX チャイナテック・カバード・コール【576A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2S3JhOFR1WThQYm43ZjZlUnlkWV80c2d0RGxqNTQ4c2xyM3AtUUpFOF9DYk9aWUxxRlQ5YzFYY1FTd3JnczFmN0JwRmZjS2h4NFE?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 07:00:36 GMT",
-    "source": "finance.yahoo.co.jp"
+    "pubDate": "Wed, 23 Sep 2026 17:17:50 GMT",
+    "source": "Yahoo!ファイナンス"
    },
    {
-    "title": "国のＧＸ戦略、苫小牧認定 環境配慮型ＤＣ集積へ - 47NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PNHp3cEFPeGhDakl1bDdKNnZWSTh0bS1nOW10M0dacVRIcFk0Y2tGMHpFdnNwNU1GS0dzeU5vX2x2bFV5ZmpPUUdudw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
+    "title": "保守連合、脱炭素政策の大幅見直しを公約 - nna.jp",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NNkwtRGZBMG1HMTBKcFl6azhkU3ItbTZGaTJhcnVHcEp2NlVuM2VsSEt5bzdueTBXR3BNRXRBcWdUR05Ea1E?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 15:00:00 GMT",
+    "source": "nna.jp"
+   },
+   {
+    "title": "エンジン車の脱炭素、マツダがアクセル バイオ燃料研究やCO2回収 - asahi.com",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tLUpqZGU1OHptUkZQejd3RDlIQ1g5UjZnNllRdGFZZmdnZDVwXzdXTmtEY1ZZVzFxUm5DNXhNMnZsdDlUQzJ5UXNnVW1wVzFQVHNnWUJpSnU5ZW1LSm9raHZlSHRabEU?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "source": "asahi.com"
+   },
+   {
+    "title": "社説＞洋上風力発電／環境に配慮した拡大策を|オピニオン - 神戸新聞",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRTlPVFN0ODVlU2ZLYU5rWjc4REptVzZ4RmlBSFZVVTFEcktYUW5vTGVlbVowWFl0V1dlTVZKYzNEZlRmenZTMFhJV1N2WkMyRm5IcE11UVJhTE5fVHRiRUtnY0s3aTg?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:10:00 GMT",
+    "source": "神戸新聞"
+   },
+   {
+    "title": "＜社説＞洋上風力発電／環境に配慮した拡大策を - 47NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nb192TzQ2TFEwM3IwbG93d0tsZGp6RnY2WC1SWVNDUERXdHZZeDBfTXlqYVpvYk91NVFWUHBXY1lmMHZwRmdId2I0cw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:10:00 GMT",
     "source": "47NEWS"
    },
    {
-    "title": "ＤＣ脱炭素化 国際宣言へ ＣＯＰ３１議長 ＡＩ環境規制機運 - 読売新聞",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jUGd0RkJQeFo1WHFTTEtjNkxTLTNYdjFUVElWUFZlMHJzQTNyQzZZN2d4eE14OG1QLUZJZUdjSUJ3Wkh6ZXpZUlVaZDlfamtYTzZwekpZczFWQzkzNllacHhuVQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
-    "source": "読売新聞"
+    "title": "【脱炭素・SDGs・ESG】三菱化工機：川崎重工から大型水素製造装置を受注、液化水素サプライチェーン実証に供給 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KV0RianZZLU5mWGRXVW9xb2V0WGIyRzRnX3BsZW1Tb2pBeU9CS1N5RkF2SExxUFFLVWFlRFFBQUVYcGI5b09RMWduSld1Mm1aTUlqUjVmSk9XX3BMOXgzWkNsVlVJSWxES2JTNHN0Qk16Zw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:18:21 GMT",
+    "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com"
    },
    {
-    "title": "学校や民間ビルで 広がる大型建築の木材利用 技術進歩で脱炭素にも - 朝日新聞",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pNjhMNURTSUg2QjQtUWpaT3hJcmdURHNKbVNubmRIN1ltREJWOTFSa0FTc01qbnNxM1JRN2JTZDdPOFNKXzRpMkxVWWJPYWFzeVVDOXlMU1k1RkoyVENNaWdaOXFEZk0?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 03:00:00 GMT",
-    "source": "朝日新聞"
+    "title": "エネ自給率高める洋上風力発電 グナー・ヘルツィッヒ氏 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNbTFGcUh3Z2JnZ29JcndmVUt1NHpsLWNpamdTeHNtbUJ6RGFfT3RTQjNRdzNsOGtJY2VOck1TLTNNMnFXUC05TXRWakNMdHEyMTNHbWRQV0hqcHRtZUlFbEFUb0VWNnVEWUJzQQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:00:00 GMT",
+    "source": "日本経済新聞"
    },
    {
-    "title": "山形大が28年度にエネ・ＧＸ学環設立 文科省「成長分野」事業に採択、高度専門人材育成へ - 山形新聞",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10UFBSdG05elozOExsaXF3QTlyNkZyWjFEdmhjMnFGMGVQelpyLUxCVF9TYzJfZGtJVF8zaElnWnNGQXFFREZ2blV1LVRUelpwZVdGY29HTnkxQnA2eklPY1p3VHhaVUxkMk9KRjNwVQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 04:25:00 GMT",
-    "source": "山形新聞"
+    "title": "自家消費太陽光が急増　２５年度県補助３倍に　電気代高騰で需要高まる｜四国新聞WEB朝刊 - 四国新聞",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81TlY3bUk0c2h2VnU0c0FTZkY2TmpXRXB5ZDl2c2pCZ3ZJZDFxUXVxUFVIV1pjYnRxbHRlM1RwWjZOLWlyVWxKcTlTX1JJQktDa0xDSDBwRmtDMk1iOHdBYmZJZHVmMG1xZXk2R0hUMWNyT3dmU3N30gF8QVVfeXFMTWttX0puTXFHQ01RTVE5bE9uejdYUzdNLWF0SF8zSUZ0aU0tSXhQaHQzWE0tUnF0dk9EY3hzSUExa053OTkxd2xiY0t0cTlQdHcwM0VTNG4zLUtDU0doYkhZWDNSeXF4ZFpNRzBTQzczQ3NDcUVrWXpiRmE0NA?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 19:03:22 GMT",
+    "source": "四国新聞"
    },
    {
-    "title": "Sandiskから5機種の新型SSDが登場、SSD全体は上下混在で方向感の薄い値動き [9月後半のSSD価格] - AKIBA PC Hotline!",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83cUt2bzY5elVGaFJZLXZ2Vk5rYVhrMHNhTHZpWnJSZDJNYkJlV0JZb0JNdDlrRmpoejlGTGZaYTZmakVXeVJIQWdOVm0xS1doUmc0WXVseEp3aXp5Z0I4N0k1OTRhOWxXR2NXT2ZBak8yWFNUZXZ3dTJTVkFfdw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 22:05:00 GMT",
-    "source": "AKIBA PC Hotline!"
+    "title": "ソーラーパネルが水没 冠水被害の太陽光施設（ABEMA TIMES） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JU3hFczEwOXFoekYtUlpiZjViVTFzQmVuM0J4Y1RFRnFFZWFtdWdmckZXM1FWN3dmVFAzMFF2TFl6eFRhdkRhd3BtOVE0ZmZSTWI0c1NxUGplbjRZOXZuRTJPcnVna2ZwOWcyd0RENU1pQTFDVEVGMm9ZNDFab0E?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 04:57:15 GMT",
+    "source": "Yahoo!ニュース"
    },
    {
-    "title": "「ＧＸ戦略地域」に正式認定　川崎臨海部　再生型で全国初〈川崎市川崎区・川崎市幸区〉 - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nNy00UDkxMVFqZVhwYzF4QzVVMkhNSThhejBNcUx1dGVkcmpMbGpPcXBsUERBMUsxV2RlUFNVbERMTkxTWkE5Zzc4UElsOFhMVmZEM0lucEZQNmcweVNDRWtRUWNFM1p4S0dxZVdIZWRpQ3BqbGJrSkZMQdIBgAFBVV95cUxNNXpCZ3I4ektJMlFGQWRFNm9RcDVkaUhPcDFRS09EX1dleExyVW1KemoyTi1nYmFIY3FscEpVUG93QzEzdkQ1SlZUT01rNVNoZ2ZBTUxPN2VoSzV3TEo4MUFjNlRtSGNZazFsSkdQWnNEWWJRZDdROTdaeFR1QUFvSg?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
-    "source": "ｄメニューニュース"
-   },
-   {
-    "title": "気候変動、じっくり考えた 札幌でタウンミーティング - 北海道新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mZi03NDRYX0dIa3NCdy1oYW40VDBjdDRhY19tTGowZWE0a1pTQi1vb3owdXN4aVFwbURCeXBDekNlRXJJbkc2ZmtyelNIMXhmbVNmc3BhUVlhZw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 07:37:41 GMT",
-    "source": "北海道新聞デジタル"
-   },
-   {
-    "title": "遊☆戯☆王GX POP UP in eeo Store 池袋本店 9月25日より開催! - コラボカフェ",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDRnVVc1cFdOWEpnYlQyTVY2bnJZc0RxZjJMVUlkcWx6VmhRT09wYWJjbTM0RWZBdERfd1Zia1RreVVIb3E4QXlmNlhUMVlvSTRva0ZOTE9GY2lJRzZkUnFNYV9hUnFObWFJOE5fank4SVZkcHRZdUZJclNfWjlpRFF4TFd6dG5m?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 02:19:19 GMT",
-    "source": "コラボカフェ"
-   },
-   {
-    "title": "日本のグリーン水素市場規模、2034年までに8億4,870万米ドルに到達へ（CAGR 25.65%で成長） - アットプレス",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BdFNkY1U0QWZCMFhKNVVNLXdmN2FDblRILVVxcWFFQXZ4eWN1V1FiMEM2Tk1qbmQwMmtKUW1ZYTExR19kb21UeE1kaGRobkE?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 22:30:00 GMT",
-    "source": "アットプレス"
-   },
-   {
-    "title": "日本製水素吸入器「Suilive」、新宿髙島屋にてPOP UPを開催｜横浜・京都に続く髙島屋での展開、9月23日（水・祝）から8日間 - PR TIMES",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuN2pYYlpHVzRoVzBqdGcwWHpkX1EwVmY5WWFvQ1RSeV9Xd25BZnZYakl5VG5UUVdhSFdMV1dGZnVzbk5jV3p1dGF6alNLR3hXanQ1X0xvX2F6bHlqdnFhWmxmd01HQ2RiZ3c?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 23:00:01 GMT",
+    "title": "系統用蓄電池は太陽光PPAをどう支えるのか――活用事例を読み解くウェビナーを開催 - PR TIMES",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAweUw4c3FRd2w4NEFkTlBHTHd4ZEc5czVhd1ZPcTdmYmRPdV9IWW43R1pyaExUWERLUGk2S3pUWk9sZzhHMzlUdndJbWFsTXZOTjlZY0NnaHNBNEJzQkxpYXVkdk16MnhuRHc?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 09:30:01 GMT",
     "source": "PR TIMES"
    },
    {
-    "title": "トヨタとスカニアが提携、水素燃料電池で重量輸送実現へ…燃料電池トラックを2027年初頭に運行開始 - CAR CARE PLUS",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tZW1DRWpwSks5QV96Unk4VkZaajlBcGVoYUFqbVRLcERtV0kyQ2RmVkctUVdTeGRMWmhhUUhFUEk5dEtOT0FvX2hxcEduc0sxZl9sY09Rd1JXQTFLbDQxZFNB?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:00:03 GMT",
-    "source": "CAR CARE PLUS"
+    "title": "100ＧＷの太陽光整備、電力計画に盛り込みへ - nna.jp",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MUGxPUmRtQlZpS0ZZVmRGaTlTajh4VzYwSjBnNFY4WWE0M0JCcDJjWkJNRkxwcUlwZHRWWHZwaUo1RXJTYlE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 15:00:00 GMT",
+    "source": "nna.jp"
    },
    {
-    "title": "1万2000枚の鏡を使って夜も街を照らす…中国「太陽熱発電」が砂漠で進化、メリットと課題は - 東京新聞",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jRmZBRXR2eElUY2FITzIzdWNYTzhKTFFtNU1sZHFqUGxKTVZkUmNHS3JodzhQMmNzUXRwVklJZFYwUFM5T0JWOVdIQmVDUjdYckRz?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-    "source": "東京新聞"
+    "title": "ソーラーパネルが水没 太陽光施設が冠水被害 千葉 台風25号 - ABEMA",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWFVGVEhLNWMxLWplTnF3cVZuZ21FYUFqMEpBMkFuSkxaMEhmQk5WaFhLZXZIamdaQWcxS1I0LXVKSG8wVkhCcW1jOE1OY0pqbGJJajRwOW01VEU?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 04:05:14 GMT",
+    "source": "ABEMA"
    },
    {
-    "title": "屋上太陽光発電システムが118万台設置されている現状を踏まえ、太陽光パネルのリサイクルに料金を課す案が提案されている。 - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOclViUzNKTnNrcldsUnI4WVNDSDdYVHgySkJtUVdpY003eWN2Qjgwc1o0RWt1OFh3VHI5WjN1dUNzc3JqWFUxam5iWXA5NXdnaVlSQzk0MHJ0djNDTE1nTkczQTJzblhEVkVmdzBZc0xZYUNoUGpFc2JPYU5Lc3dvX1F1WFkwLUh3YVA0Y2JQMDNVekRTcS1yZ3djRDVnS20yeE5SMQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:04:09 GMT",
-    "source": "vietnam.vn"
+    "title": "太陽光を無償提供 大阪府内児童施設など向け ハンファジャパン | 産業別動向記事 | プレミアム - nikkinonline.com",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WUTBhVWtNS01DaU1yQ2ZHc3FhWmptbmx2RUFmUnpIblNtWF9BR0h5Sm9sMi1qT1lmVDlDZlF5TjcwMGVQZ0hYcUkxRGh4Y3FfcnJ2YXVuWkVlbWNfcVNUSi02UG0?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:47:11 GMT",
+    "source": "nikkinonline.com"
    },
    {
-    "title": "「水素ステーション」整備促進へ 静岡県と愛知県が連携、需要調査を検討 ＦＣトラック普及に向け補助拡充も - 静岡新聞DIGITAL",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MY2g3M0RIMWF3N0cyTTA3VWxDbE1JZ09rcmdBWjBxS1N3elVObG82TkJLNG5vWGY3WUFhdlE2LVJfcWNyc2pybzVIaG51QQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 11:05:00 GMT",
-    "source": "静岡新聞DIGITAL"
-   },
-   {
-    "title": "韓国GSエンテック、蔚山750MW浮体式洋上風力の下部構造物を供給へ - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04ZEVUZHc1aHUzajdVeURqTkE3Y19HaU1ycm04Q3VudWctRXVyOW1yOFg5NG9NdUlXS3l2WnZ4cy1FSXlYWEpSTzJnSURwSS1EWW11bjA3NWdITERfUV9DQWVMY0RGekR4bk1rNjJzdHJWaUpC?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 07:35:00 GMT",
-    "source": "BigGo ファイナンス"
-   },
-   {
-    "title": "三菱ふそう、水素大型トラック出展へ…ジャパンモビリティショー ビズウィーク2026 - レスポンス（Response.jp）",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RdXYxSDhFTUhMMmpiMDlxcmdDM0RTSEtERUFGSkFxdWZlZ05ubUZXWEx6UGdaeERKWVhHMjVua1h3b1RoU2xnY0FxWFo4YlBvcWtocW9SWDlEdm9YT0Y0?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 06:00:03 GMT",
-    "source": "レスポンス（Response.jp）"
-   },
-   {
-    "title": "中国企業建設の太陽光発電所、アゼルバイジャンで系統連系開始 - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVZDdmJUVzJ1YUpuZjN3M1kxajcwVjhYSWlYMU90cHlsaTVwdmJwNHY2TmNNM29DaUFDeHRRMUpyeEliOUxkMFQ4T1hLV2MxeXoxUkgzR2xTazhGSnNVQzFJT0FHZm5jMnhyeEpuNjFMT3VGTUxhdEpZNmgxRG5RSU01YlZvWloyWnlNa3hxTnTSAZABQVVfeXFMT2VWQ3ZiVFcydWFKbmYzdzNZMWo3MFY4WElpWDFPdHB5bGk1cHZicDR2Nk5jTTNvQ2lBQ3h0UTFKcnhJYjlMZDBUOE9YS1djMXl6MVJIM0dsU2s4RkpzVUMxSU9BR2ZuYzJ4cnhKbjYxTE91Rk1MYXRKWTZoMURuUUlNNWJWb1paMlp5TWt4cU50?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 13:06:00 GMT",
-    "source": "ｄメニューニュース"
-   },
-   {
-    "title": "千葉・袖ケ浦市のゴルフ場で土砂崩れ 太陽光パネルも崩れる 市原市の高齢者施設で道路ふさがれ入居者ら約170人が孤立 - FNNプライムオンライン",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93MVNReUdDNHVvcWlJd2ZvSHRWbFVrLVk5bWVBNE5XWmdxSF8wNTF0bzZoLVFjaVFuc2pXN2gxWVp2Z09jWldLNG45MHkzZw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 10:27:00 GMT",
-    "source": "FNNプライムオンライン"
-   },
-   {
-    "title": "コムストック、太陽光パネルのリサイクル連続操業を開始 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hd25VLTc2cUpJUnA0NHlPeVV6V1RLbjNoN0pudV9wUTZrRlBqdDhURW9FS3YwZlRFa3dpR0FaUDM2WDR3RHVQS2FrTjBlZ3l6VndocTB6bjlrRldrLTZmbkplazAxOEo4amx4Ukw0bXI?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 10:04:00 GMT",
-    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-   },
-   {
-    "title": "「五島の先進的な洋上風力発電」幅広く波及 視察が過去最多 宿泊や交通など需要創出、雇用にも (長崎新聞) - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnU4anFkUzlIRlVicHRDRW16SnZyZ20zTlBfcnFWY2tSUVltRThRQXU4bHBScVkwV2k4Vk9UMEFPNGNWRURZUTJqSXNWbkU4VDI0NjNRU1ZqUUdaS014QnZ1aVRlSGZnOXRLVXR2aGRudEJtcDBjMlNmcnljcExrMnk4OG5temVwUnJNX3Vn?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 02:40:26 GMT",
-    "source": "Yahoo!ニュース"
+    "title": "業務用バッテリー蓄電システム市場2035年予測：再生可能エネルギー統合が成長をけん引 - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3JrM1V6NnJyazZPeDhjd1pOWUxfQUdDUm1oZmd5TnF5V2VESU1GY3NmNE1ZRjBVYmlISEdwUlc3UGM2YjJuakVPYUNXaWhzam16dURsRDVKLTc5R3hGOGNXdVFpV09IMnhmc1NtV3FEMy1zdmdMLUVOdDRFZ1ZhTjNsY2xKNV9feW5nelYzcEJOSDUySThQZkx1RDROQ2tadGNpd2hSN0RoOW01M0pObklVbXN6Z2JrUnkyNVlB?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 13:46:04 GMT",
+    "source": "IndexBox"
    }
   ],
   "industry": [
    {
-    "title": "速報：アリババの20GWクラウド投資表明、AI設備投資（Capex）の構図を一変 - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9BcXZJQVh3aFFTM2IxTVloSWhyZGs5cl9oNTNVNV9OdXgxWVRGUVU2Ym9acTZMTXBZWEhHNllEb3JZcXhNc1BHTU5BZFpyUi0xT3RoS3RhNVJEWDJUbHN1QTQxNVlPRzdyekFQaWhMNWM4VEZacHdldkFkaFljaG01REFCTFJEeUlQT1V6Zkl4V3E0QVBJZWdkWU9zNS1NbmpUOFdUMUdnQnRqZzZJY21xU00?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 16:03:16 GMT",
-    "source": "Moomoo"
+    "title": "ASII、2026年上半期に17兆ルピアの設備投資を実行 - IDNFinancials",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRS1TU25IODYxWXNJdmtXYU9xSFVCM2NWaVlIUldzRVlscDg3dGFTM0lZWUY1Umd6ZFROVTh4T0c4blpoV3RGZUhON0RmcEl4NHk2WnNGQlJSMFlCYXdQVGd4dWJ2Q2UyWjd3dzBxWlVUWDdLYy1kTTJ0bl95aFMtSlVJSFUxZ0Zlb2x5RVF3b083SnZ0RUZWSHJnSTY4ZjBNMFZWZmluMA?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 10:00:00 GMT",
+    "source": "IDNFinancials"
    },
    {
-    "title": "米国の太陽光発電製造設備投資額、2026年までに122億ドルに達する見通し - ニュースと統計 - IndexBox",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenRpaUozYXNJNjFCT1JmSjBpeUFYYmxLT1NNS3hHNFp0eDJCaFZIZFJLSkM3enp3Q2dsYXZJTnNYVmVEYUoteEJYeVBxN3IxT20xQ3RycDlkYms1ckl3QktkMkV2dWVQQTJ0SmFabTBPbjkyeGc2cngxLXFZNmx6MzR0OG9hUzF1RFpCVkdjaDFwUWRoRUdhNEhNOXFoOVFQN0E?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:02:07 GMT",
-    "source": "IndexBox"
+    "title": "富士フイルム、印に半導体材新工場 １３０億円投資 - 化学工業日報 電子版",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qd3FFRXUzTzR2NHplVmhJX1hweTExQWVfMXFMWHBaMmZsc1EwSVFoU0M4UTU3YWczUHZGcjNIRmY1Uy0yckh1WTVnYnFtUzZsXzZJ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:02:59 GMT",
+    "source": "化学工業日報 電子版"
    },
    {
-    "title": "テスラ、フィッチから初の投資適格級を取得、株価は上昇続く - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN2hHdm8wb0ZsZGJ3U0xtc1UwdFNBVjhYbUhKeU1POXN1SlB2R242VFl4aWNJV1kxTGM5S09OUkotenpVSkhLZ3hlVm1odzhYZlFDQUJlajMyQ0xRREM3Q3RQa0RyRFZ3d09BTjJmNEpQbVpu?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 18:26:00 GMT",
+    "title": "CATL、ハンガリーのEV電池セル新工場で試運転開始 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zLWlaV1JXaGlVQ3pLWDNCY1kzZnNMcFhrRXBqMU13VmR5RjIwSktKRzNrNmV6b2tKTUlneUdzZ0tBVTVDaXJGTTNWWm95cjNUX1lSb1lYSUdGUWQtaWhQQURTNnZYQ2FudlNaaQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 11:35:00 GMT",
+    "source": "日本経済新聞"
+   },
+   {
+    "title": "三陽商会 「サンヨーソーイング青森ファクトリー」を移転、新設 28年上期の稼働予定 - 繊研新聞",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VGpBdVhhQWswU0FlSFFpc0J1UTNfOXRvRzJJYUpvZmJGWjBwTUp1V19YZHZWY3M4NzBmaTBtc0dLVWJ4YWUtcVR5T1JHX1g2ZlhpT3VmWG1qUQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:26:00 GMT",
+    "source": "繊研新聞"
+   },
+   {
+    "title": "マイクロソフト株、10月決算が正念場 3カ月3割高で強気期待の持続力問う - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Fbm8wWHdkeC1mY0c0RnNzeUI4UWZJWHFMQ1BDT1Z1bEMtcGlpUWhJSVQwMm11Unl3WEZXd0Z1cTZuOUxMOW5mSmJWQzYzMm9uTFpORExhSFR6OWxqOFU3aXpxRFMwNGtoQ0RhUlk1Q09fdWtK?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 18:06:00 GMT",
     "source": "BigGo ファイナンス"
    },
    {
-    "title": "TSMCが1四半期で155億9000万ドルの設備投資を実施、前期比42％増。株価への影響は？ - TIKR.com",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNURXSlhVX2NGa3lRNHliWEE4aU1uSDFrNDNnVWJsN0QtYUQ3cmtlZkVINEdGNUU2M1g2TWpXdG0xMHF0YnR0TWhJN1lvZzB5aGl3dHEwaUlnY2oxcy1acWlaSkV3VEFDVWNwdnJrYzEyOWFtSzdqNmNyVUVPQzNLaFF5R0VyZHc0UTJ3UVFVRVQ5M2M3VVBYT0syVlFSS09UZXpKYkcxRnU5MWw4em9pU2dldmlVRm54aXprR24zVmVTbXdXUFcyZEhfS21EMXFwU0Mxajd5Y0hBOTlqenR2dThOVQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 10:35:41 GMT",
-    "source": "TIKR.com"
+    "title": "マクドナルド、新たな財務目標と市場シェア拡大を盛り込んだ「NEXT」戦略を発表 - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUJIRTI3Wjk3MzVYRFQ0MUV5dTBpNzk1SHNHdVAxeFo1elZWM2lkbE13WGsza1FfSVlDZG5BRDBXSTF4bHUxcXl0RUlsTFNDVlVtTFB6TnBrOGZIZTlWV1EzcklLVV9Lc29DbGczTVhYMGNFdHlXcDhzSjRkVkFYWE13eXMtdnY1MzF3MW9qaFdQam9XNF92OUpVbHVlcDBLa21pNHFOT2E3QzV4bVh2aE1sdw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 15:24:26 GMT",
+    "source": "Moomoo"
    },
    {
-    "title": "なぜレトルトパウチの会社がAI相場に？ZACROS（7917）は味の素ABFの「量産工場」だった。知る人ぞ知る黒子銘柄の本当の実力｜日本個別株デューデリジェンスセンター - note",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81Zmlnb2RobHMwaWVUdGw5dXZZRzM3U3o0ZEM4dUNna0dqcmEzOWFra1NfamlPZE1TMFJmaVF1TlZ3QUR4bnQ1czR6X1BPc3hnaExfX3JXajBrSzQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 10:41:36 GMT",
-    "source": "note"
-   },
-   {
-    "title": "オートゾーン第4四半期決算：関税還付とLIFOが利益率を押し上げ - TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kdWtHNXBuU2w0ckNtdEUtNGk2RE85dk5YbnJxSTlwZ2JwZEYyeHFjUjdlbUNjSWFMY0QzX1BHNzlpd19RZnZOODJPNm9vWU5LaUZHRFdaSGh0djVBakE2RGpRaDl1ZzdPRFU3TXNmZG1pdw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 11:04:24 GMT",
+    "title": "9月23日のASE Technology Holding Co Ltd (ASX) 値動きは3.30%下落：値動きの背後にある事実 - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHhsNVBsOFA2ZWxabUlaLXprUVVSQ0F1QmZmZ0J4d2toVk1UMlNUTEgtY184bHpUZmJ2djF1NzRrVVdkX2p0TkdWRVNvLWZkakhnaGpHeklhWEJ1TjZhR3c5UVBZanF1TW5sSzVRTmdvRzY5VWNQNnNDRFd3dnFBS2FPTEgwRHRUSUJUU2xB?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 16:16:22 GMT",
     "source": "TradingKey"
    },
    {
-    "title": "Meta Museがバイラル現象に：Metaの巨額な設備投資（CapEx）の恩恵を受けるのは誰か？16社の主要サプライヤーを深掘り - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjJIQ2FVeGdldkNQS3pxZG1zcUZTUUNOb1JrYkFMd1ZreElodWg1RWVHNzltY0JCemVZaEJWREhVMDlNeE1UYmN6NTdxMnNiU2RvUXZmUE5VNjdQY1RkSExQWE40ZjF1SkJCeHNvbkJVazN6OWVqNXphdHFVdDdDWUtabW5rZk9oVEotWUlWeFlvT0E3dzFxNXpUZFJFaVU3TXE1WQ?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 11:06:22 GMT",
+    "title": "マクドナルド、2030年に向けた市場シェアと利益率の目標を発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RUGJDZ2loSDlmMXZnRnI3SGxOOEpXNFMwcmhmaXJpY0JvZ1BSQWZCQmtMSGR4MW5GYWFhUjlzclRhOTlrTHFxUGlTeU91dlFlZ3pxTTdQcFlzT1d4ZFJuRnpVS2hvU0xlNEdKaWxCVm8?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 12:05:00 GMT",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+   },
+   {
+    "title": "受注は14カ月連続増！AI･半導体で沸く工作機械関連5銘柄 - 四季報オンライン",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iVGhGN0RiaDNaR3RqZ0hyY0xPM2xJQnVRam0zSHFPajA2alRYN0VETTVHYV93XzFPcDRhV19SUEpPMlk4RHpkZ0hGUGZBXzQtLTFQNE9nVQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 09:30:00 GMT",
+    "source": "四季報オンライン"
+   },
+   {
+    "title": "日系自動車メーカーのインド投資拡大、中国サプライチェーンへの依存不可避―中国メディア - ニコニコニュース",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VR195SnFtYzFMNDg5Z2luLUktRGJMWVhiT1dwanJrNHc0UExfQXc2WmhEUkpPMElkRnlvd29YelhNZ09oQV9CbmpwYWVXc3YzUzNnLQ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 14:00:28 GMT",
+    "source": "ニコニコニュース"
+   },
+   {
+    "title": "米国の大手ハイパースケーラー4社による2950億ドル規模の投資ブームが生産性の伸びを上回り、AIインフレが現実味を帯びてきた。 - EBC Financial Group",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GZXBLcXp2YjRTbG5XNE85ZUZ0VGlic1NrWnpBWmdtNENZcXZfV1BQUVNCNllfc2cwRXFwemI4ZG1aR19xcWVpUmdyaFZhYUo3M3c?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:25:00 GMT",
+    "source": "EBC Financial Group"
+   },
+   {
+    "title": "速報：PMI急騰で米国債利回りが19年ぶりの高水準に - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3I1R0ZlbHJEeE5sVFpIZkJiSkF6RWdKWDc3RWNSY1VnRjR4eHpEak1EQWpVNTdsYVZxTS0tN3BCS3NLeXRUS2h6T3I1WjFwZGpPclM3akdFMkNVR0RHRV9Lancyd2wtQk1fSVJ2U1BVSkluSW1RYi02OFFRVUFhLS1KeElaeEI0UFluSXpPS2tZcTFXT09rMFAteHJzaGRtZ0I0dE9hRHF1Nzc5MW1n?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 15:04:09 GMT",
     "source": "Moomoo"
    },
    {
-    "title": "最大100時間蓄える「鉄空気電池」を増産へ 米Form Energy、2.7億ドルの資金枠 - 千葉テレビ放送",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WWm1OMHhOU1VsUjFWajM0cGlwREtaVTY5VlNGUjk3LWpvZmFMU25OQ1pueUk2NTVlcHlEcjFPM21UdUpRdkhxdkYzV2RPajR5R2lWZVAwMHUydGNXRXdv?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 11:15:00 GMT",
-    "source": "千葉テレビ放送"
+    "title": "他社買収の頻発で証券用語にも関心、PPP認知度は「ウォーター」付くと低下 - 日経クロステック",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CUXgwSGhsTDVDLWkwVGxfQlZsaVVTMXZ2eWdxdTFHcGEzeFdlM0ZnUTZ4cVlPYUlRWExqNXBGQ1dsdWlHVUR2bUxkd2plOGcyMHNkVTh3Q1ZaY2wtc2FQOFJnRjFfYTRmUFRaVzJ3?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 17:10:00 GMT",
+    "source": "日経クロステック"
    },
    {
-    "title": "「おお、すごい絶景！ でも高速が開通したら見なくなるかな…？」熊本－鹿児島「142kmの海沿い無料道」建設いよいよ佳境 - 乗りものニュース",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sR1hySlJhSHl6dkJlbzdWM0NRREFBSUQtYmVoMGZzbnhMemVmNVAyZ2N6VXZEMTFmUnlrQzZSWDN6YUktM09OZU53?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 05:12:00 GMT",
-    "source": "乗りものニュース"
+    "title": "【保土谷化学工業】有機ELを取り込んだM＆A 買収戦略が再び始動 - M＆A Online",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHdHVYd2N1Y0Z4Z0VyaFE3YUxpWmhxWnRlU3VncW5MSVpNUXpjUFJET18zdFVfU3lKMnctbTZhc21sVVBGdnZqTlFxTWRwYWM0V0dXZHpSbmZNMWhYbVVzUmtEcG4?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:00:00 GMT",
+    "source": "M＆A Online"
    },
    {
-    "title": "UBS調査レポート解説：シリコンウェーハ需給の逼迫、40％値上げではじめて増産インセンティブが働く - 深潮TechFlow",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CeG8xSzZ4ZDBGS05tdFh0OFN5NGRxcV9YeXJ3QWs3MENQQzJZdUZNeURsQk1TcTh2VzhqTG5QeFV3N21Fa3NpaktDc2pqWkFaRTZnUTc0Wm01UWRD?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 04:44:40 GMT",
-    "source": "深潮TechFlow"
+    "title": "S&PがBending Spoonsを格上げ、買収統合の進展を評価 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5seHllWW8zdEg5T1Nfc3FvV3AtMXFuZWRRWVh1aGJPSU4tcmlJSUpMX0tpMU5IbWhzM01BM3EwcjN6UzBta3QzQlRmLVNSWC1uWjN4Q2laczVmMzdCM2Rlb011eHltbDlmSXFLSkJqUm9WUmROMXlJ?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:49:00 GMT",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
    },
    {
-    "title": "SBエナジー、米IPO延期 500億ドル評価に投資家難色 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtdTdnSGlPWllsNUo4SVh0WHpSdEZCZzdFWnZ5REZwQ2Z0ZVN5ZHY5V254dnhvcFR4N0xRSkZOZGN3Q3l2SWtrTmc3cmdwN29hdnFaSE5xdHNyZlliS1VmVlRpRDFwci0yTklORl9mMUd0R21K?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 07:25:00 GMT",
+    "title": "Corient、FortCay Family Office Advisory の買収によりケイマン諸島に進出 - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42V0dtNzJwc1ZIWWZFQUNOMXY2cnBfZW5GcnNTVU9IcHBZWXJvWjlyU016MDhCMnhwaUcwaDE5NVBwWFNERzRYbWl6bkRsUVRFNlBIMHpoTmg1SlpkX05lcFRNZEUtWXM?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 21:25:00 GMT",
+    "source": "Business Wire"
+   },
+   {
+    "title": "「何をやっているか分からない」からの脱却…海外新規事業の命運を握る「泥臭い社内営業」のリアル - ゴールドオンライン",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XSkotYjAwS1hxQ2lYZ2QwZ3Q0OTQzZTd5QnUtbVhZZmo2TUowRzhfdHp6SlQxRlc1UFRRZmlqZ3J6d0FhcXg1VWEzU3FtMkNrNUE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+    "source": "ゴールドオンライン"
+   },
+   {
+    "title": "【保土谷化学工業】有機ELを取り込んだM＆A 買収戦略が再び始動 - topics.smt.docomo.ne.jp",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTno5V1V1cDZqREpzSUFncWwyRTlzaVcxTXNHV010WGNMRFV0RDV6RUVpQktyc1o2QUhiSWUtMzNRQVdmdFdsSEdJU0h1T1dfLUp2VmtReU0weU9JaGFaVVk0SUVJVWh4UWZKY2o5dVZidjkxMDBJNjFRR05lNW04dEdaYmlTc0NvRlJ2MkxLTzRfMEZ6Wmlr0gGcAUFVX3lxTE5sYlBkV3lBbXVkTHVUTTk4SE1LMG1jaGhXajBVd0Q4S2hKWGtIMzdzcTRfbWstYkhGalZLNDlHT2otVVJ5dFN1UFA5c1BBN3BIcVo0cVhSV2RSR0twejdXWVNnZ3ZCcDk3ZXFJYlAwWHdnNHZ1YUJ0ZnI5VTZDZF8ybnhKcXNLWE5nU0pLWkIzb1l6TjFqUFphSmFwVw?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:09:13 GMT",
+    "source": "topics.smt.docomo.ne.jp"
+   },
+   {
+    "title": "ゴールドマン、クレジット運用大手パーマーS買収で協議中－関係者 - newsdig.tbs.co.jp",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTdBdlgtZW54bFZPZXE4b094clB4LU01bkQ5TjhEN3c3U3Jvam1BVGF5VGVNN2VVV1BRaDQzdkJTSUh2V0lzdW1obDlDMWVHZjFKVnh6YWd6dHNWSGxfQjA1QUlGdTg?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 14:21:00 GMT",
+    "source": "newsdig.tbs.co.jp"
+   },
+   {
+    "title": "ワージントン、決算受け大幅高 買収効果や関税還付が業績押し上げ＝米国株個別 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ybldqSVUya1VoUDBFbUFFcGZFZzRoOVd6SUZndXhJeVpLZ0Z6bmNmRUtNSEdzTlRkbWhLdGtwOVVZVFJld2lvcA?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 13:49:57 GMT",
+    "source": "みんかぶ FX/為替"
+   },
+   {
+    "title": "サンマルクHDが「つるとんたん」を128億円で買収！ 大幅減益のなか見据える勝ち筋とは？ - Infoseek",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HWnRGckRvYTVjS2FFbDdoT0Y4UzNleHZDbEtJYWctMlFoMThVczB5U24yamhfS21wSXhTMWhRUnZscUItRERWYVkzZXdHYkg1ZEIzRllxWEpOTHFhNnk3YzBB?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 22:30:00 GMT",
+    "source": "Infoseek"
+   },
+   {
+    "title": "エヌビディアのハギングフェイス2兆円買収、背後に「真のオタク」創業者 - 毎日新聞",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83eUxCU210NDhZN21zOVpwcEpna2RLTzFEb0RCTlhMTWZvZmVYMEN1SmpSQWhxZWJOLVlCckpwYllDajBBaDR5NWlhR2ZCSDdvRnRNN3k4N29tOXNZdjdZUGx0elRHYmg4MlhONTRmLVRLaU9USnhETlR2c1loMUE?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 06:00:00 GMT",
+    "source": "毎日新聞"
+   },
+   {
+    "title": "MoonPay、SEC登録のノース・キャピタルを6000万ドルで買収へ - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vY2k0akNyUVpzYXBpNzBwdGU0RUx0OEI4T3d4Z3VWeVJ5cURNZWg1a2VMZloxUWw0WDgyN3ZULVRFWHBUd1ZYbDl1U09DY0pVOFVlVERnT1hyV0V3UUpPcmZweWlvc0p6OERUSWlmbjRfVnVm?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 13:35:00 GMT",
     "source": "BigGo ファイナンス"
    },
    {
-    "title": "米政権返還の関税、現金保有７割 - oita-press.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3RlT1hBVEwtX3o0TFZZV1NMX0dOMWpFRXY1Tlp3Z3ZMQkJQbHVjU2x0UC0yN1NUSGtRS1RyZmNNd0hsWkZjN01tYjY1SDRGOHQ2Y0h1Vm51Nk4xVVVDSi1QRVRIazN0T1ZEY1R1RU1Qc3EzTVBEbER3bG1UWS1ZeE9pRUnSAYQBQVVfeXFMUHd0ZU9YQVRMLV96NExWWVdTTF9HTjFqRUV2NU5ad2d2TEJCUGx1Y1NsdFAtMjdTVEhrUUtUcmZjTXdIbFpGYzdNbWI2NUg0Rjh0NmNIdVZudTZOMVVVQ0otUEVUSGszdE9WRGNUdUVNUHNxM01QRGxEd2xtVFktWXhPaUVJ?oc=5",
-    "pubDate": "Mon, 21 Sep 2026 23:55:42 GMT",
-    "source": "oita-press.co.jp"
-   },
-   {
-    "title": "パラマウント 12州と合意 ワーナー買収実現へ前進 - 沖縄タイムス社",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvX1NoVFZsMnBGcWEzX0ZEUFVWNGJhSzFoRUlCY1dNRnhSZU1jSFd0d2VNQjZoalMtTmNfb0tMdmRHaGtWejBfdTRLczlYalU0TGZQTDdmYWFCTjhYeFE?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 18:59:00 GMT",
-    "source": "沖縄タイムス社"
-   },
-   {
-    "title": "カプリが上昇 同社が買収候補と接触し、候補側が財務内容を精査と伝わる＝米国株個別 - 株探",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03c2N3bmhvSVlxSHE2eUw4Q1BHQUUxRjVTQjQ0QnRiLVEwRERBRlNwNUdmckJoUkdoU3E0UVNaNTZTSEFtM0RpR3dZd2puczJKRUE?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 18:49:00 GMT",
-    "source": "株探"
-   },
-   {
-    "title": "ゴールドマン、クレジット運用大手パーマーS買収で協議中－関係者 - Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jNDNNZEFLY3hadUxTeDNtOWx1QWhMR1k5SU5SNEpVcnlxazhveHhlMWdXVjRFRWlyMWRZOUFCd2xsUGp4SmZibWVBaldGX0NpLVFNWUxfQUwzSF85dllqVWZnaW5rMFptNnBtTEFma2dMcVpjc1Rj?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:27:07 GMT",
-    "source": "Bloomberg.com"
-   },
-   {
-    "title": "パラマウントによるワーナー買収巡る訴訟、１２州と和解…裁判所が承認すれば大型買収実現に向け前進 - 読売新聞",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIel9CUm1WWVFKSC1uYmhGZ3YxMV9waDNEeHhHdS04cU92TTNqRzlHUGFfWHJDY0kxNC1tYXV5cURYV1hjdmNOX0NFZUcxRzNNUDE4S0NTVlBYSU5PRkQwSXJ3?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 08:31:00 GMT",
-    "source": "読売新聞"
-   },
-   {
-    "title": "Extravaganza BeautyがRoja Londonを買収 - FashionNetwork France",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenBIY0kyaThVdVQ4aFFkbTdjdWdpQ0VrR0xoSEZZaDcwWEtINkl3LXlhcy1ySnlkbzNLSEowTmhwWHktVGhrSmdxZV9zc19SOHhUMjd2SUZhY3JOZV9tdC0tYnBXcW5iQnJjakp5WWwwSXV6M05oaDhMM1hrVVZRQzV0M1J3Wmg3aWN1d1k5WjNmcEd0VFVVakVGdFRQY3F5NjdfTlVYUmN3U2tYTGUxbF9qOUI?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 15:12:28 GMT",
-    "source": "FashionNetwork France"
-   },
-   {
-    "title": "買収報道後もジェフリーズはカプリ・ホールディングスの格付けを維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tSnZINmRUbjc3RW5ZbnpLUFNSeDFFYm1JTWwzZkFBWGQtbjNrQmRLQ1QwNkk5aXRRRzdlSURpWEFJb0xnUl9ZVjI4YU81QkZDMk5Dell3UGFNVktEenZEUnYxdVA1aDVndFc3dkZFbGJDNmIy?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 21:03:00 GMT",
-    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-   },
-   {
-    "title": "パラマウント、12州と和解 ワーナー買収前進 - 北海道新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na3puRDlkYnNsdHl5eWU5akREdDNvbkRhcEVOTWVtRzVpbG5wSVdLWk9QdXJxd1pfaHpLc05EeWJfeEJfQlBQVjVOQ1BaLUE1SERoVERMNXFtZw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 19:00:00 GMT",
-    "source": "北海道新聞デジタル"
-   },
-   {
-    "title": "パラマウント、ＷＢＤ買収巡り12州と和解 買収完了へ前進 - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Wa3RTZ2pSTWY4RTRuVUI4ekxNRW5EekczWWNod3VhTnJfdUw2N1o4N1RKS2I4NW4wUkxLcjdRMGF0dDUxTVhsbVZBQlBzMWpG?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 08:31:35 GMT",
-    "source": "Yahoo!ニュース"
-   },
-   {
-    "title": "パラマウント 米１２州と合意 ワーナー買収へ前進 - 琉球新報デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2N29JSGRiMjJBODJpQVl0N21LN0Jya0JidEtTZllyQXVnWlByM0MyNGFRd09hRGRDaG15S2VYdVB0cnVhZklmQjNlSy1OcjZnbDZRaDhTc0tyNEpySFVIZDZR?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
-    "source": "琉球新報デジタル"
-   },
-   {
-    "title": "パラマウントのワーナー買収巡る訴訟、カリフォルニアなど5州と和解 - TBS NEWS DIG",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14OEpwMHJSX3dDMG5wbWRxaG1zSU9KNWpTZkRZb2RhWDkyTXdrVTV3ajgydU52b2NiN0xRTVVDNlAzd1JqU0Y4d0duSm9wUGRESTBYRTUzckgwUVJSMnV1RENmamUwbXdwZUttUHZ4cTJSR3Fw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 09:00:00 GMT",
-    "source": "TBS NEWS DIG"
-   },
-   {
-    "title": "プログレス・ソフトウェア、DomoのAI資産買収を完了 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FQ0RTYW1JSVdZekUwTTQ4a1U0S0k3MWhhTG5JLU5KYXljbEpGelNyZ0c1R0RwTEQxalVZd1RGaW9GTGd4MDV0ZlRDWTJ1MmFSV2c1dnZ6SzFjZHBXbXBNcVRVYnJjQzlrVjlCcExIcWk?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:12:00 GMT",
-    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-   },
-   {
-    "title": "パラマウント １２州和解 ワーナー買収へ前進か - 読売新聞",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZOGxlb0hkYkw2T2J6SjE1eWN2MTdSUlVBNWRXRTZnZjhtd0hna1RVWFFWMWNEY0t2c0tGLVoyOG1SYnplR214bkVGRmdSUEFzMVhZMVJobEZGbHNqZFVQRG1Kcw?oc=5",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 GMT",
-    "source": "読売新聞"
+    "title": "シーザーズの株主がフェルティッタによる17.6億ドルの買収を承認 - Yogonet",
+    "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxQTWpnaFY3bkdFMGhISFZJUFJLVllScThBV1VLdFhhZXBSX2dtdkgxZ0UyMEZ0NUNVTE1hcTAtNGhSYjhyMmYwWHBsaGIzQXY4N3dfdHlzRzZ1emViWmxpendGcU1OM1F2Z3NtQUN4M1FHN1l3b3ZhS2RxS1BEd2ZTSTlCNHZlSFBETmk0c3VNckppZ3lTSmNDSXVUbENkM0tiOEkxNWszZ1ktQ0QydjRSYVhtQlJtaFlxQzhLQ3dMampJclhqZExRSGxyaDVwampyMHF6ZkhQX1hubVVvUXYzMU5JRGtFbVhiZzN4cHZCNWVCUTRNSEtKSGNtdEl2eW5BejNQU0NUWTFRcjFNTTZ1WnF6aXRYS3o4bWhmQ2NsTEFSQ2VwUFMwRlQyTXhwWTctTXVBV0d6bHkyellmamtRanBiRk9JODhPWmFzVmFGNTFwQ2x0YnlRWV9IUzZSY25fV3V5YXdwbHZiYi1ZQi12ckNlc2l0ZGlrV0NzRnFyRlE2WUhha05XT0ZlS1BTVFl5aXlERW9uX0c2LVFIQTMxM1BaazFCdlV0NzhYUGVhQ3dwTEpLX3ZNYU1Cb1Ruc2FPcnpQcXJ5THFHNXk5N3BmVENBMzllR1VfN0FxQ3FXQmV4bWE3M1NHYnBKcmRUVVVLblRYa1A4LVhwLWdHdFliUVpmbHF4a05Idm5rN0JLMWFBMUtoZTc0TnVMc0s?oc=5",
+    "pubDate": "Wed, 23 Sep 2026 16:00:43 GMT",
+    "source": "Yogonet"
    }
   ]
  }
